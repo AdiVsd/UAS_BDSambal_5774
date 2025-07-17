@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard Prediksi Harga Sambal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #ffa726;
+            color: white;
+        }
+        .chart {
+            text-align: center;
+            margin-top: 20px;
+        }
+        img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dashboard Prediksi Harga Sambal</h1>
+
+        <div class="section">
+            <h2>Deskripsi Dataset</h2>
+            <p>Dataset ini berisi 1000 data produk sambal yang diambil dari Tokopedia. Setiap baris berisi informasi seperti nama produk, harga, rating, jumlah stok, dan tanggal scraping.</p>
+        </div>
+
+        <div class="section">
+            <h2>Contoh Data</h2>
+            <table>
+                <tr>
+                    <th>Nama Produk</th>
+                    <th>Harga</th>
+                    <th>Rating</th>
+                    <th>Stok</th>
+                </tr>
+                <tr>
+                    <td>Sambal Terasi Pedas 250ml</td>
+                    <td>25000</td>
+                    <td>4.8</td>
+                    <td>50</td>
+                </tr>
+                <tr>
+                    <td>Sambal Ijo Homemade</td>
+                    <td>18000</td>
+                    <td>4.6</td>
+                    <td>30</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section chart">
+            <h2>Visualisasi Data</h2>
+            <p><strong>Contoh:</strong> Korelasi Rating dan Harga</p>
+            <img src="c:\23.11.5774\Semester 4\Big Data Analytics\New folder\11.PNG" alt="Rating vs Harga">
+
+            <p><strong>Contoh:</strong> Korelasi Stok dan Harga</p>
+            <img src="c:\23.11.5774\Semester 4\Big Data Analytics\New folder\12.PNG" alt="Stok vs Harga">
+        </div>
+
+        <div class="section">
+            <h2>Hasil Prediksi & Evaluasi</h2>
+            <p>Model Regresi Linier sederhana dan berganda menunjukkan nilai R² dan RMSE yang menunjukkan tingkat akurasi model dalam memprediksi harga sambal berdasarkan rating dan stok.</p>
+            <ul>
+                <li>R² Score: 0.62</li>
+                <li>RMSE: 7350</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Kesimpulan</h2>
+            <p>Regresi linier mampu digunakan untuk memprediksi harga sambal berdasarkan fitur numerik. Rating memiliki pengaruh yang signifikan terhadap harga, sementara stok memberikan kontribusi kecil.</p>
+        </div>
+    </div>
+</body>
+</html>
