@@ -1,0 +1,1001 @@
+﻿ID,Nama Produk,Jenis Sambal,Harga,Stok,Tanggal Produksi,Tanggal Expired,Rating,Penjual,Lokasi
+1,Sambal Sambal Terasi 479ml,Sambal Tomat,26049,114,7/15/2025,12/23/2025,4.3,Perum Safitri Tbk,Singkawang
+2,Sambal Sambal Roa 116ml,Sambal Terasi,16140,111,7/15/2025,2/9/2026,3.8,Perum Jailani (Persero) Tbk,Pontianak
+3,Sambal Sambal Matah 466ml,Sambal Roa,24446,229,7/15/2025,3/4/2026,4.5,PD Sihotang Pertiwi,Batam
+4,Sambal Sambal Ijo 457ml,Sambal Roa,32298,142,7/15/2025,12/31/2025,3,PD Nurdiyanti (Persero) Tbk,Subulussalam
+5,Sambel Sambal Bawang 147ml,Sambal Roa,16338,183,7/15/2025,4/7/2026,4,Perum Nugroho Tbk,Serang
+6,Sambal Sambal Teri 374ml,Sambal Bawang,73774,472,7/15/2025,4/24/2026,2.7,UD Tampubolon Tbk,Pasuruan
+7,Sambel Sambal Cumi 395ml,Sambal Matah,56174,35,7/15/2025,11/5/2025,4.2,CV Hutasoit,Tidore Kepulauan
+8,Sambel Sambal Bawang 219ml,Sambal Bawang,34911,142,7/15/2025,6/2/2026,4.1,UD Hutagalung,Parepare
+9,Sambel Sambal Ijo 289ml,Sambal Cumi,23730,343,7/15/2025,2/26/2026,4.3,PD Utama Sihombing (Persero) Tbk,Purwokerto
+10,Sambal Sambal Ijo 373ml,Sambal Matah,20708,236,7/15/2025,4/25/2026,3.2,PD Wulandari Haryanti,Magelang
+11,Sambal Sambal Cumi 493ml,Sambal Terasi,25010,420,7/15/2025,10/29/2025,4.5,Perum Nurdiyanti Kurniawan,Pekalongan
+12,Sambel Sambal Tomat 133ml,Sambal Matah,69843,482,7/15/2025,3/23/2026,3,UD Nashiruddin Tbk,Lubuklinggau
+13,Sambel Sambal Roa 429ml,Sambal Teri,19363,135,7/15/2025,12/23/2025,3.1,PT Setiawan,Banda Aceh
+14,Sambel Sambal Roa 398ml,Sambal Roa,33723,112,7/15/2025,12/22/2025,3.8,CV Handayani Mangunsong (Persero) Tbk,Bitung
+15,Sambal Sambal Terasi 156ml,Sambal Ijo,51120,81,7/15/2025,5/17/2026,4,CV Wijaya Suartini (Persero) Tbk,Tomohon
+16,Sambel Sambal Roa 405ml,Sambal Teri,44676,128,7/15/2025,10/18/2025,4.2,CV Tampubolon Rahmawati (Persero) Tbk,Bengkulu
+17,Sambal Sambal Tomat 493ml,Sambal Cumi,17310,150,7/15/2025,5/23/2026,2.9,PT Setiawan Widodo,Tangerang
+18,Sambal Sambal Tomat 356ml,Sambal Ijo,43271,467,7/15/2025,12/6/2025,4.7,PT Wacana Tbk,Bima
+19,Sambel Sambal Matah 178ml,Sambal Cumi,59971,82,7/15/2025,7/11/2026,4.8,UD Hariyah Mulyani,Jayapura
+20,Sambel Sambal Teri 109ml,Sambal Bawang,70889,185,7/15/2025,3/19/2026,3.1,PD Hutasoit Gunarto,Bima
+21,Sambal Sambal Bawang 143ml,Sambal Teri,63478,35,7/15/2025,7/12/2026,4.4,Perum Safitri,Kotamobagu
+22,Sambal Sambal Teri 381ml,Sambal Ijo,27370,270,7/15/2025,5/17/2026,4.9,PT Haryanto Waskita Tbk,Serang
+23,Sambal Sambal Tomat 304ml,Sambal Cumi,38711,460,7/15/2025,7/4/2026,3.6,Perum Waluyo,Kediri
+24,Sambal Sambal Matah 132ml,Sambal Cumi,11378,301,7/15/2025,2/7/2026,4,Perum Wastuti (Persero) Tbk,Sorong
+25,Sambal Sambal Bawang 462ml,Sambal Terasi,25003,34,7/15/2025,10/29/2025,4.6,CV Farida,Langsa
+26,Sambal Sambal Matah 242ml,Sambal Teri,24040,276,7/15/2025,12/19/2025,4.3,CV Adriansyah,Binjai
+27,Sambel Sambal Matah 342ml,Sambal Roa,22478,48,7/15/2025,12/1/2025,4.1,CV Haryanto (Persero) Tbk,Madiun
+28,Sambel Sambal Roa 310ml,Sambal Teri,66612,373,7/15/2025,11/9/2025,4.2,PT Irawan Tbk,Tangerang Selatan
+29,Sambal Sambal Terasi 306ml,Sambal Cumi,62467,441,7/15/2025,12/7/2025,3.1,Perum Budiyanto Wastuti (Persero) Tbk,Magelang
+30,Sambal Sambal Teri 171ml,Sambal Roa,22025,142,7/15/2025,6/6/2026,3.1,PD Prastuti Puspasari,Batu
+31,Sambal Sambal Teri 381ml,Sambal Bawang,13315,333,7/15/2025,10/20/2025,4.9,UD Wastuti (Persero) Tbk,Padangpanjang
+32,Sambal Sambal Ijo 308ml,Sambal Teri,41546,109,7/15/2025,5/6/2026,4.8,UD Wacana Mangunsong,Banjarmasin
+33,Sambal Sambal Roa 101ml,Sambal Roa,27380,474,7/15/2025,6/2/2026,3.2,PD Nurdiyanti Andriani (Persero) Tbk,Kota Administrasi Jakarta Selatan
+34,Sambel Sambal Ijo 197ml,Sambal Tomat,24267,495,7/15/2025,11/11/2025,3.9,PT Permadi,Malang
+35,Sambal Sambal Cumi 129ml,Sambal Terasi,48284,244,7/15/2025,6/27/2026,4.8,PD Halim,Bengkulu
+36,Sambal Sambal Terasi 360ml,Sambal Bawang,65793,95,7/15/2025,11/17/2025,4,PD Hastuti Tbk,Purwokerto
+37,Sambal Sambal Roa 161ml,Sambal Matah,47940,304,7/15/2025,11/2/2025,4,Perum Situmorang Tbk,Kota Administrasi Jakarta Selatan
+38,Sambel Sambal Cumi 233ml,Sambal Matah,53891,366,7/15/2025,3/22/2026,3.1,UD Pertiwi Tampubolon Tbk,Ambon
+39,Sambel Sambal Ijo 443ml,Sambal Tomat,39964,161,7/15/2025,11/19/2025,2.5,CV Siregar Tbk,Surakarta
+40,Sambal Sambal Bawang 375ml,Sambal Matah,43153,135,7/15/2025,12/19/2025,4.8,PD Hardiansyah Napitupulu Tbk,Metro
+41,Sambal Sambal Matah 289ml,Sambal Tomat,20338,224,7/15/2025,3/16/2026,4,PT Nashiruddin Tbk,Langsa
+42,Sambal Sambal Tomat 439ml,Sambal Bawang,71533,449,7/15/2025,12/20/2025,3.2,CV Mandasari Kuswoyo Tbk,Lubuklinggau
+43,Sambal Sambal Ijo 239ml,Sambal Tomat,49638,107,7/15/2025,4/6/2026,3,PT Mahendra Widodo (Persero) Tbk,Batu
+44,Sambel Sambal Teri 228ml,Sambal Terasi,16048,324,7/15/2025,5/17/2026,4.6,CV Pangestu Nashiruddin,Sukabumi
+45,Sambal Sambal Terasi 270ml,Sambal Ijo,51753,134,7/15/2025,1/3/2026,4.4,PT Saputra Nababan,Magelang
+46,Sambel Sambal Terasi 157ml,Sambal Bawang,71934,452,7/15/2025,12/28/2025,3.9,Perum Adriansyah Halimah (Persero) Tbk,Yogyakarta
+47,Sambel Sambal Ijo 320ml,Sambal Ijo,12741,157,7/15/2025,4/17/2026,4.7,Perum Manullang Damanik,Tomohon
+48,Sambal Sambal Cumi 207ml,Sambal Matah,53708,52,7/15/2025,4/12/2026,4.5,PT Jailani Saefullah Tbk,Medan
+49,Sambel Sambal Ijo 221ml,Sambal Ijo,73976,409,7/15/2025,1/11/2026,4.7,UD Rajasa Tbk,Cirebon
+50,Sambal Sambal Ijo 477ml,Sambal Cumi,61274,476,7/15/2025,5/11/2026,4.5,PD Waskita Pradipta,Mojokerto
+51,Sambal Sambal Tomat 181ml,Sambal Bawang,35070,446,7/15/2025,11/1/2025,4.6,CV Riyanti Gunawan (Persero) Tbk,Kupang
+52,Sambal Sambal Matah 335ml,Sambal Cumi,30000,420,7/15/2025,2/6/2026,3.1,PT Mulyani Napitupulu,Pasuruan
+53,Sambal Sambal Roa 268ml,Sambal Tomat,66646,35,7/15/2025,3/4/2026,3.4,CV Wulandari Yulianti Tbk,Sibolga
+54,Sambel Sambal Cumi 114ml,Sambal Bawang,67477,496,7/15/2025,2/23/2026,2.9,PD Saptono (Persero) Tbk,Kota Administrasi Jakarta Barat
+55,Sambel Sambal Terasi 155ml,Sambal Roa,32654,373,7/15/2025,3/22/2026,3.6,Perum Santoso Handayani (Persero) Tbk,Surakarta
+56,Sambal Sambal Roa 395ml,Sambal Matah,26693,22,7/15/2025,5/24/2026,2.5,UD Lazuardi (Persero) Tbk,Tomohon
+57,Sambal Sambal Cumi 320ml,Sambal Bawang,72185,340,7/15/2025,3/31/2026,4.1,PT Hassanah,Kota Administrasi Jakarta Utara
+58,Sambal Sambal Tomat 359ml,Sambal Tomat,53705,209,7/15/2025,3/29/2026,3.5,UD Siregar Natsir,Singkawang
+59,Sambel Sambal Ijo 198ml,Sambal Roa,53576,481,7/15/2025,4/25/2026,4.2,PT Utama Saptono,Jambi
+60,Sambal Sambal Tomat 307ml,Sambal Terasi,29914,146,7/15/2025,1/28/2026,3.6,PD Mangunsong (Persero) Tbk,Tangerang
+61,Sambel Sambal Teri 326ml,Sambal Teri,54277,109,7/15/2025,7/1/2026,3.7,UD Saragih,Bitung
+62,Sambal Sambal Bawang 245ml,Sambal Cumi,16120,419,7/15/2025,2/10/2026,4.2,PD Setiawan Kuswandari Tbk,Tanjungpinang
+63,Sambal Sambal Matah 175ml,Sambal Terasi,13028,125,7/15/2025,6/13/2026,4,PT Wasita Hasanah Tbk,Bandung
+64,Sambal Sambal Teri 312ml,Sambal Matah,57077,356,7/15/2025,4/27/2026,3.7,PT Safitri Wahyuni,Lhokseumawe
+65,Sambal Sambal Ijo 435ml,Sambal Terasi,68501,384,7/15/2025,12/6/2025,4.4,Perum Hassanah,Kupang
+66,Sambal Sambal Ijo 456ml,Sambal Teri,13291,285,7/15/2025,2/17/2026,4.8,Perum Mandala Nasyiah (Persero) Tbk,Pariaman
+67,Sambal Sambal Teri 168ml,Sambal Teri,53750,271,7/15/2025,3/24/2026,4.9,CV Maheswara,Pangkalpinang
+68,Sambel Sambal Roa 380ml,Sambal Teri,68799,81,7/15/2025,6/13/2026,3.6,UD Susanti Melani (Persero) Tbk,Sorong
+69,Sambal Sambal Tomat 492ml,Sambal Teri,51074,122,7/15/2025,3/2/2026,3.6,PT Mandala Sihombing,Singkawang
+70,Sambel Sambal Matah 239ml,Sambal Cumi,30952,457,7/15/2025,11/23/2025,2.8,CV Pranowo,Kota Administrasi Jakarta Selatan
+71,Sambal Sambal Roa 455ml,Sambal Ijo,56295,109,7/15/2025,11/14/2025,3.5,Perum Hastuti (Persero) Tbk,Bogor
+72,Sambel Sambal Teri 312ml,Sambal Terasi,23555,426,7/15/2025,5/16/2026,3.5,UD Halim Tbk,Tanjungbalai
+73,Sambal Sambal Roa 344ml,Sambal Terasi,71783,180,7/15/2025,3/14/2026,4.4,CV Najmudin Rahmawati (Persero) Tbk,Sukabumi
+74,Sambel Sambal Matah 349ml,Sambal Matah,27887,223,7/15/2025,6/18/2026,2.6,UD Latupono Novitasari,Balikpapan
+75,Sambel Sambal Roa 470ml,Sambal Ijo,65083,239,7/15/2025,12/17/2025,5,Perum Winarsih,Bima
+76,Sambal Sambal Roa 403ml,Sambal Terasi,15501,329,7/15/2025,5/20/2026,2.8,PD Padmasari Januar Tbk,Semarang
+77,Sambel Sambal Ijo 125ml,Sambal Tomat,34844,167,7/15/2025,1/29/2026,3.6,PT Halim Hasanah Tbk,Bitung
+78,Sambel Sambal Roa 242ml,Sambal Roa,26532,427,7/15/2025,11/23/2025,3.7,UD Purnawati Sihombing Tbk,Pagaralam
+79,Sambal Sambal Cumi 214ml,Sambal Bawang,61198,490,7/15/2025,11/2/2025,4.4,UD Hidayat Latupono Tbk,Tegal
+80,Sambal Sambal Matah 110ml,Sambal Ijo,25633,64,7/15/2025,6/12/2026,4.2,CV Rahayu (Persero) Tbk,Balikpapan
+81,Sambal Sambal Teri 458ml,Sambal Tomat,60259,188,7/15/2025,1/6/2026,4,PT Nababan Saefullah,Magelang
+82,Sambal Sambal Ijo 259ml,Sambal Bawang,47924,13,7/15/2025,3/21/2026,3.9,PD Prayoga (Persero) Tbk,Cilegon
+83,Sambel Sambal Roa 466ml,Sambal Matah,14980,303,7/15/2025,2/14/2026,2.8,UD Situmorang Kurniawan,Bima
+84,Sambel Sambal Bawang 389ml,Sambal Terasi,32754,272,7/15/2025,5/20/2026,4.2,CV Marpaung Laksmiwati Tbk,Pekalongan
+85,Sambal Sambal Cumi 106ml,Sambal Roa,63892,250,7/15/2025,12/6/2025,3.6,CV Rajasa Adriansyah,Tanjungbalai
+86,Sambel Sambal Teri 462ml,Sambal Ijo,38540,90,7/15/2025,7/7/2026,4.9,PD Kusumo Lailasari (Persero) Tbk,Tarakan
+87,Sambel Sambal Teri 338ml,Sambal Roa,64115,374,7/15/2025,2/27/2026,3.3,PT Aryani,Pariaman
+88,Sambal Sambal Bawang 242ml,Sambal Teri,25981,384,7/15/2025,6/7/2026,3.9,UD Aryani Nurdiyanti (Persero) Tbk,Madiun
+89,Sambel Sambal Cumi 114ml,Sambal Teri,65768,166,7/15/2025,1/14/2026,3.7,PD Haryanti (Persero) Tbk,Tidore Kepulauan
+90,Sambel Sambal Tomat 274ml,Sambal Tomat,67692,305,7/15/2025,3/3/2026,3.9,PD Rahayu Nababan (Persero) Tbk,Tangerang
+91,Sambal Sambal Bawang 223ml,Sambal Roa,42019,284,7/15/2025,2/13/2026,4.2,Perum Permata Rahimah Tbk,Tegal
+92,Sambel Sambal Teri 108ml,Sambal Bawang,29283,113,7/15/2025,5/8/2026,4.2,PD Tamba,Purwokerto
+93,Sambel Sambal Cumi 342ml,Sambal Cumi,37885,381,7/15/2025,3/31/2026,3.4,CV Setiawan Tbk,Tidore Kepulauan
+94,Sambel Sambal Tomat 256ml,Sambal Tomat,25108,61,7/15/2025,1/19/2026,3.3,PD Hariyah Maheswara (Persero) Tbk,Jayapura
+95,Sambal Sambal Matah 210ml,Sambal Teri,28120,370,7/15/2025,7/8/2026,4,Perum Laksita,Batam
+96,Sambal Sambal Matah 251ml,Sambal Matah,33650,91,7/15/2025,3/16/2026,2.5,UD Purnawati Tbk,Langsa
+97,Sambal Sambal Tomat 123ml,Sambal Terasi,46264,149,7/15/2025,12/16/2025,4.1,PT Rahayu (Persero) Tbk,Lhokseumawe
+98,Sambel Sambal Bawang 106ml,Sambal Tomat,40762,245,7/15/2025,5/26/2026,3.4,UD Halim Suryatmi,Pontianak
+99,Sambal Sambal Tomat 344ml,Sambal Bawang,63878,33,7/15/2025,5/6/2026,3.7,UD Yuniar,Bukittinggi
+100,Sambal Sambal Ijo 176ml,Sambal Tomat,15582,127,7/15/2025,12/12/2025,3.9,PT Hutapea Utami,Ambon
+101,Sambel Sambal Matah 497ml,Sambal Roa,39524,465,7/15/2025,5/27/2026,3.2,PT Megantara Siregar Tbk,Tangerang
+102,Sambel Sambal Tomat 391ml,Sambal Terasi,49952,491,7/15/2025,12/2/2025,4.9,UD Marbun,Banjarmasin
+103,Sambal Sambal Matah 235ml,Sambal Bawang,20292,122,7/15/2025,1/9/2026,3.9,PD Pudjiastuti Tbk,Singkawang
+104,Sambal Sambal Terasi 309ml,Sambal Teri,55178,304,7/15/2025,6/10/2026,3.2,UD Wibisono,Cimahi
+105,Sambal Sambal Tomat 461ml,Sambal Tomat,56070,440,7/15/2025,6/2/2026,2.7,PD Wastuti,Probolinggo
+106,Sambal Sambal Tomat 420ml,Sambal Matah,37861,58,7/15/2025,2/5/2026,4.1,PD Andriani Tbk,Tomohon
+107,Sambel Sambal Ijo 136ml,Sambal Terasi,20873,405,7/15/2025,3/19/2026,4,CV Tamba (Persero) Tbk,Bau-Bau
+108,Sambel Sambal Teri 163ml,Sambal Teri,55133,155,7/15/2025,5/7/2026,4.9,UD Wasita Prakasa Tbk,Tarakan
+109,Sambel Sambal Teri 141ml,Sambal Terasi,68289,221,7/15/2025,3/27/2026,4,PD Hutagalung Winarsih,Malang
+110,Sambal Sambal Bawang 217ml,Sambal Terasi,60119,344,7/15/2025,2/27/2026,3.9,CV Permata Marpaung Tbk,Banda Aceh
+111,Sambal Sambal Teri 365ml,Sambal Teri,70035,142,7/15/2025,1/13/2026,5,PD Megantara,Tasikmalaya
+112,Sambel Sambal Teri 146ml,Sambal Teri,32803,209,7/15/2025,4/1/2026,3.3,Perum Rahayu Kurniawan,Tarakan
+113,Sambal Sambal Ijo 268ml,Sambal Roa,55460,253,7/15/2025,3/9/2026,4.2,CV Dongoran Suartini (Persero) Tbk,Malang
+114,Sambel Sambal Terasi 332ml,Sambal Bawang,30612,129,7/15/2025,3/27/2026,2.8,PT Kusmawati,Sawahlunto
+115,Sambel Sambal Terasi 436ml,Sambal Teri,37082,27,7/15/2025,1/17/2026,3.8,PD Haryanto Tbk,Manado
+116,Sambel Sambal Teri 489ml,Sambal Terasi,23340,136,7/15/2025,12/19/2025,4.8,UD Pertiwi Santoso,Ternate
+117,Sambel Sambal Teri 162ml,Sambal Terasi,73776,322,7/15/2025,2/12/2026,4.3,UD Kusumo Jailani Tbk,Binjai
+118,Sambel Sambal Terasi 382ml,Sambal Roa,16108,115,7/15/2025,12/10/2025,3.7,CV Nainggolan Usada,Kota Administrasi Jakarta Pusat
+119,Sambal Sambal Ijo 355ml,Sambal Tomat,43349,361,7/15/2025,3/1/2026,3.5,Perum Yulianti Marbun Tbk,Tanjungbalai
+120,Sambel Sambal Teri 224ml,Sambal Teri,46127,74,7/15/2025,4/27/2026,3,Perum Kuswandari Rahimah,Manado
+121,Sambal Sambal Bawang 241ml,Sambal Roa,32274,478,7/15/2025,6/29/2026,3.2,PD Prasasta Firgantoro,Kota Administrasi Jakarta Pusat
+122,Sambal Sambal Tomat 471ml,Sambal Tomat,64884,300,7/15/2025,6/20/2026,4.7,PT Kuswandari Yulianti (Persero) Tbk,Tangerang
+123,Sambel Sambal Teri 276ml,Sambal Cumi,46170,390,7/15/2025,4/24/2026,3.6,CV Pratiwi Tbk,Padangpanjang
+124,Sambel Sambal Matah 457ml,Sambal Matah,47473,196,7/15/2025,2/9/2026,4.6,PT Prayoga Permata,Probolinggo
+125,Sambel Sambal Terasi 262ml,Sambal Teri,56217,467,7/15/2025,4/26/2026,3.5,PD Simanjuntak Wasita,Payakumbuh
+126,Sambal Sambal Teri 118ml,Sambal Ijo,42918,494,7/15/2025,3/31/2026,4.7,PD Samosir Wahyuni,Solok
+127,Sambel Sambal Bawang 369ml,Sambal Teri,11005,369,7/15/2025,12/25/2025,3.5,PD Maryati Zulaika Tbk,Sorong
+128,Sambal Sambal Bawang 340ml,Sambal Tomat,32187,319,7/15/2025,5/4/2026,4.1,CV Rajasa,Padangpanjang
+129,Sambel Sambal Roa 262ml,Sambal Teri,67172,277,7/15/2025,10/31/2025,4,PT Sihotang (Persero) Tbk,Tanjungpinang
+130,Sambal Sambal Tomat 216ml,Sambal Bawang,38440,500,7/15/2025,12/2/2025,4.4,CV Riyanti Tbk,Tebingtinggi
+131,Sambal Sambal Teri 185ml,Sambal Tomat,69206,14,7/15/2025,11/5/2025,3.3,Perum Rajata Pradipta (Persero) Tbk,Bekasi
+132,Sambal Sambal Tomat 283ml,Sambal Cumi,38225,74,7/15/2025,2/15/2026,3.8,CV Budiyanto Ardianto,Pekalongan
+133,Sambal Sambal Ijo 189ml,Sambal Bawang,49943,445,7/15/2025,4/26/2026,4,PD Yolanda Kusmawati,Sorong
+134,Sambal Sambal Teri 398ml,Sambal Ijo,25216,236,7/15/2025,2/20/2026,3.6,CV Hartati Pratiwi Tbk,Cimahi
+135,Sambal Sambal Teri 247ml,Sambal Ijo,14840,226,7/15/2025,4/7/2026,5,Perum Farida Hariyah (Persero) Tbk,Tegal
+136,Sambel Sambal Roa 453ml,Sambal Tomat,39939,432,7/15/2025,3/16/2026,3,Perum Firmansyah Marpaung Tbk,Sabang
+137,Sambel Sambal Teri 154ml,Sambal Matah,34993,292,7/15/2025,4/14/2026,3.9,UD Firgantoro Pratiwi,Tomohon
+138,Sambel Sambal Terasi 437ml,Sambal Roa,27988,4,7/15/2025,11/7/2025,4.8,PD Saragih (Persero) Tbk,Kota Administrasi Jakarta Barat
+139,Sambel Sambal Tomat 497ml,Sambal Matah,49784,410,7/15/2025,4/11/2026,3,CV Irawan Simanjuntak,Sorong
+140,Sambal Sambal Tomat 447ml,Sambal Ijo,51172,49,7/15/2025,11/2/2025,3.3,PD Laksmiwati Marbun (Persero) Tbk,Denpasar
+141,Sambel Sambal Terasi 396ml,Sambal Cumi,57995,67,7/15/2025,11/28/2025,4.8,UD Widodo Utami,Tomohon
+142,Sambel Sambal Roa 189ml,Sambal Matah,18661,402,7/15/2025,4/18/2026,3.8,PT Fujiati Nababan (Persero) Tbk,Pematangsiantar
+143,Sambel Sambal Ijo 231ml,Sambal Teri,73398,412,7/15/2025,3/13/2026,4.4,Perum Sitorus,Mataram
+144,Sambel Sambal Bawang 339ml,Sambal Bawang,19224,386,7/15/2025,2/5/2026,4.7,UD Sudiati Thamrin,Bogor
+145,Sambel Sambal Cumi 146ml,Sambal Roa,10912,135,7/15/2025,7/14/2026,2.8,Perum Prabowo Tbk,Bukittinggi
+146,Sambel Sambal Tomat 399ml,Sambal Roa,63897,326,7/15/2025,4/21/2026,2.8,CV Hutasoit,Meulaboh
+147,Sambal Sambal Teri 112ml,Sambal Cumi,69982,312,7/15/2025,2/3/2026,4.1,PD Ardianto Mandasari (Persero) Tbk,Jayapura
+148,Sambel Sambal Tomat 432ml,Sambal Roa,17646,71,7/15/2025,11/5/2025,4.9,UD Rajata Wibowo Tbk,Lubuklinggau
+149,Sambel Sambal Teri 159ml,Sambal Bawang,25387,454,7/15/2025,7/15/2026,2.8,PD Hasanah Kusumo,Tidore Kepulauan
+150,Sambel Sambal Cumi 443ml,Sambal Roa,48491,380,7/15/2025,12/31/2025,4.7,Perum Hutagalung,Sungai Penuh
+151,Sambal Sambal Teri 415ml,Sambal Roa,71541,487,7/15/2025,3/5/2026,2.6,PD Hasanah Tamba,Cilegon
+152,Sambel Sambal Matah 327ml,Sambal Teri,72295,120,7/15/2025,4/16/2026,2.7,Perum Prasetya Tbk,Pekalongan
+153,Sambel Sambal Cumi 131ml,Sambal Roa,28080,97,7/15/2025,12/14/2025,4.9,Perum Pradana Tbk,Subulussalam
+154,Sambel Sambal Bawang 439ml,Sambal Matah,52054,327,7/15/2025,10/23/2025,2.6,Perum Siregar,Prabumulih
+155,Sambel Sambal Matah 164ml,Sambal Matah,14496,424,7/15/2025,1/27/2026,4,Perum Yuniar,Tomohon
+156,Sambal Sambal Cumi 496ml,Sambal Ijo,61684,461,7/15/2025,10/14/2025,3.2,CV Pertiwi Tbk,Tegal
+157,Sambal Sambal Ijo 376ml,Sambal Tomat,62331,89,7/15/2025,12/8/2025,4.2,UD Halim Ramadan,Serang
+158,Sambal Sambal Ijo 107ml,Sambal Cumi,61772,403,7/15/2025,2/11/2026,4,CV Dongoran,Sibolga
+159,Sambal Sambal Ijo 235ml,Sambal Terasi,18307,379,7/15/2025,5/16/2026,3.8,Perum Januar Sitorus,Bandung
+160,Sambal Sambal Teri 329ml,Sambal Cumi,43635,303,7/15/2025,12/7/2025,3.6,PD Damanik Hassanah Tbk,Samarinda
+161,Sambal Sambal Terasi 472ml,Sambal Tomat,40018,329,7/15/2025,10/28/2025,2.7,UD Wasita Budiyanto,Denpasar
+162,Sambel Sambal Roa 318ml,Sambal Bawang,42130,364,7/15/2025,5/28/2026,2.7,PT Saefullah Tbk,Palembang
+163,Sambal Sambal Cumi 411ml,Sambal Ijo,14304,64,7/15/2025,3/2/2026,4.1,PD Sudiati,Tangerang
+164,Sambel Sambal Roa 405ml,Sambal Tomat,39734,258,7/15/2025,5/21/2026,2.7,Perum Ramadan Mahendra Tbk,Batu
+165,Sambal Sambal Matah 320ml,Sambal Teri,68201,116,7/15/2025,5/12/2026,3.3,PD Agustina Pertiwi,Bengkulu
+166,Sambel Sambal Roa 312ml,Sambal Bawang,30483,218,7/15/2025,3/22/2026,4.2,PT Hardiansyah Usamah,Bekasi
+167,Sambel Sambal Ijo 451ml,Sambal Teri,14399,46,7/15/2025,11/25/2025,2.7,CV Nababan Tbk,Samarinda
+168,Sambal Sambal Cumi 166ml,Sambal Terasi,48434,489,7/15/2025,3/30/2026,4.2,PD Pradipta Saragih,Payakumbuh
+169,Sambel Sambal Cumi 440ml,Sambal Roa,66891,468,7/15/2025,11/8/2025,4.9,Perum Setiawan Susanti,Kota Administrasi Jakarta Timur
+170,Sambel Sambal Cumi 153ml,Sambal Matah,20140,336,7/15/2025,6/16/2026,3.1,CV Natsir Hidayat Tbk,Batu
+171,Sambal Sambal Cumi 384ml,Sambal Cumi,17529,390,7/15/2025,3/4/2026,3.9,PT Nasyidah Saputra Tbk,Parepare
+172,Sambel Sambal Terasi 411ml,Sambal Tomat,11897,92,7/15/2025,3/1/2026,4.3,UD Yulianti Hastuti (Persero) Tbk,Parepare
+173,Sambel Sambal Cumi 279ml,Sambal Terasi,21888,445,7/15/2025,12/25/2025,3.9,PT Saefullah Rahimah Tbk,Meulaboh
+174,Sambel Sambal Bawang 172ml,Sambal Terasi,16013,382,7/15/2025,7/11/2026,3,PD Puspasari Tbk,Padang Sidempuan
+175,Sambel Sambal Teri 274ml,Sambal Ijo,34251,159,7/15/2025,3/28/2026,4.4,PD Tarihoran,Pematangsiantar
+176,Sambal Sambal Terasi 179ml,Sambal Ijo,59442,316,7/15/2025,11/7/2025,4.2,PT Natsir,Tasikmalaya
+177,Sambel Sambal Teri 438ml,Sambal Roa,41828,310,7/15/2025,5/27/2026,3.5,PT Sitompul Tampubolon Tbk,Denpasar
+178,Sambal Sambal Bawang 276ml,Sambal Roa,17267,145,7/15/2025,6/19/2026,3.8,PT Sihombing (Persero) Tbk,Pekanbaru
+179,Sambel Sambal Terasi 212ml,Sambal Roa,74516,306,7/15/2025,11/10/2025,2.5,UD Marbun (Persero) Tbk,Denpasar
+180,Sambel Sambal Matah 492ml,Sambal Ijo,60080,130,7/15/2025,3/10/2026,3.3,CV Widiastuti Pradipta (Persero) Tbk,Subulussalam
+181,Sambal Sambal Teri 482ml,Sambal Roa,21514,66,7/15/2025,4/25/2026,3.8,CV Safitri Thamrin (Persero) Tbk,Gorontalo
+182,Sambal Sambal Cumi 136ml,Sambal Roa,66476,379,7/15/2025,11/3/2025,3.6,CV Damanik,Bandung
+183,Sambel Sambal Bawang 260ml,Sambal Roa,47578,207,7/15/2025,5/14/2026,3.2,CV Adriansyah Budiman,Tarakan
+184,Sambel Sambal Terasi 266ml,Sambal Ijo,62515,485,7/15/2025,6/5/2026,4.6,PD Pertiwi Andriani (Persero) Tbk,Kediri
+185,Sambel Sambal Bawang 323ml,Sambal Bawang,25945,223,7/15/2025,5/6/2026,3.8,CV Nugroho Kuswoyo (Persero) Tbk,Kota Administrasi Jakarta Utara
+186,Sambel Sambal Tomat 481ml,Sambal Cumi,24520,170,7/15/2025,1/7/2026,2.7,PT Puspita Tampubolon,Tarakan
+187,Sambal Sambal Matah 497ml,Sambal Cumi,33009,372,7/15/2025,12/27/2025,3.1,PD Purnawati Wahyudin Tbk,Bogor
+188,Sambal Sambal Tomat 201ml,Sambal Ijo,49478,78,7/15/2025,11/20/2025,2.9,CV Nashiruddin Wahyudin (Persero) Tbk,Balikpapan
+189,Sambel Sambal Teri 486ml,Sambal Teri,54638,473,7/15/2025,3/27/2026,4.7,UD Nasyiah,Kota Administrasi Jakarta Barat
+190,Sambel Sambal Ijo 325ml,Sambal Bawang,40731,226,7/15/2025,3/17/2026,4.5,CV Ardianto (Persero) Tbk,Sukabumi
+191,Sambal Sambal Cumi 359ml,Sambal Bawang,30342,236,7/15/2025,6/1/2026,2.6,PD Wibowo Yolanda Tbk,Mojokerto
+192,Sambel Sambal Tomat 139ml,Sambal Bawang,50305,304,7/15/2025,6/29/2026,3.5,UD Rajasa Tbk,Madiun
+193,Sambal Sambal Teri 392ml,Sambal Matah,31071,309,7/15/2025,6/13/2026,3.8,CV Haryanto,Prabumulih
+194,Sambal Sambal Teri 152ml,Sambal Cumi,74381,365,7/15/2025,11/25/2025,3.8,CV Prakasa (Persero) Tbk,Banjar
+195,Sambal Sambal Terasi 226ml,Sambal Teri,74945,224,7/15/2025,7/8/2026,3.8,Perum Hidayanto,Mojokerto
+196,Sambal Sambal Cumi 290ml,Sambal Tomat,35389,209,7/15/2025,4/4/2026,4.2,UD Saptono Halimah (Persero) Tbk,Kota Administrasi Jakarta Utara
+197,Sambal Sambal Cumi 133ml,Sambal Cumi,16193,285,7/15/2025,4/28/2026,3.2,UD Widiastuti,Pagaralam
+198,Sambal Sambal Cumi 141ml,Sambal Ijo,70079,179,7/15/2025,3/20/2026,4.9,PD Aryani Tbk,Kendari
+199,Sambel Sambal Ijo 404ml,Sambal Bawang,30288,286,7/15/2025,4/23/2026,4.1,CV Samosir Nashiruddin (Persero) Tbk,Palembang
+200,Sambel Sambal Ijo 443ml,Sambal Bawang,52337,343,7/15/2025,5/17/2026,3.8,PD Mansur (Persero) Tbk,Cirebon
+201,Sambal Sambal Cumi 258ml,Sambal Ijo,72335,109,7/15/2025,4/5/2026,4.9,CV Wahyuni (Persero) Tbk,Pekanbaru
+202,Sambel Sambal Matah 215ml,Sambal Ijo,20154,39,7/15/2025,3/13/2026,4.6,CV Waskita (Persero) Tbk,Sukabumi
+203,Sambal Sambal Terasi 438ml,Sambal Cumi,67435,392,7/15/2025,12/19/2025,4,PT Widiastuti Namaga (Persero) Tbk,Tual
+204,Sambal Sambal Ijo 192ml,Sambal Ijo,57263,224,7/15/2025,11/4/2025,3.5,CV Hutagalung Tbk,Prabumulih
+205,Sambal Sambal Teri 412ml,Sambal Tomat,59308,383,7/15/2025,5/30/2026,3.1,CV Haryanti,Salatiga
+206,Sambal Sambal Tomat 340ml,Sambal Matah,34106,347,7/15/2025,5/26/2026,3.7,UD Aryani Rajasa,Sorong
+207,Sambel Sambal Roa 357ml,Sambal Roa,73325,82,7/15/2025,1/23/2026,4.5,CV Nurdiyanti Nasyiah,Ternate
+208,Sambal Sambal Tomat 126ml,Sambal Teri,67286,190,7/15/2025,12/4/2025,4.3,PT Iswahyudi Waluyo Tbk,Sawahlunto
+209,Sambal Sambal Tomat 142ml,Sambal Ijo,27877,230,7/15/2025,7/2/2026,2.9,CV Budiyanto Hidayanto,Madiun
+210,Sambel Sambal Bawang 213ml,Sambal Teri,67975,178,7/15/2025,10/26/2025,3.5,UD Padmasari Melani,Kendari
+211,Sambel Sambal Cumi 220ml,Sambal Roa,15348,191,7/15/2025,2/4/2026,2.6,PD Padmasari,Palembang
+212,Sambal Sambal Cumi 174ml,Sambal Ijo,12510,146,7/15/2025,6/11/2026,4.2,PT Ardianto,Yogyakarta
+213,Sambal Sambal Teri 329ml,Sambal Terasi,69366,40,7/15/2025,10/22/2025,3.1,PD Purnawati Pranowo,Bukittinggi
+214,Sambal Sambal Roa 156ml,Sambal Tomat,25573,154,7/15/2025,12/14/2025,2.6,PD Hasanah,Prabumulih
+215,Sambel Sambal Teri 132ml,Sambal Bawang,64833,463,7/15/2025,6/25/2026,4,PD Wibisono Utami Tbk,Semarang
+216,Sambal Sambal Matah 467ml,Sambal Ijo,29088,219,7/15/2025,10/13/2025,4,UD Hariyah Pratiwi,Solok
+217,Sambal Sambal Roa 195ml,Sambal Bawang,44307,499,7/15/2025,4/15/2026,2.7,UD Saputra,Balikpapan
+218,Sambal Sambal Roa 340ml,Sambal Terasi,51659,198,7/15/2025,4/22/2026,3.1,CV Fujiati Riyanti,Kota Administrasi Jakarta Utara
+219,Sambal Sambal Cumi 134ml,Sambal Cumi,25802,375,7/15/2025,12/5/2025,4.4,Perum Prayoga Pranowo Tbk,Bitung
+220,Sambel Sambal Ijo 122ml,Sambal Cumi,45783,173,7/15/2025,1/10/2026,4.6,Perum Thamrin Tampubolon Tbk,Banda Aceh
+221,Sambel Sambal Teri 423ml,Sambal Ijo,63182,69,7/15/2025,11/14/2025,4.3,CV Wijayanti Budiyanto Tbk,Bandar Lampung
+222,Sambel Sambal Terasi 250ml,Sambal Matah,12870,405,7/15/2025,1/23/2026,4.7,Perum Gunawan Fujiati Tbk,Malang
+223,Sambel Sambal Tomat 363ml,Sambal Roa,74823,417,7/15/2025,6/12/2026,3.1,PD Pertiwi,Tidore Kepulauan
+224,Sambal Sambal Tomat 282ml,Sambal Terasi,66740,335,7/15/2025,3/31/2026,3.2,PT Halimah Gunawan (Persero) Tbk,Langsa
+225,Sambel Sambal Roa 304ml,Sambal Teri,68630,489,7/15/2025,4/28/2026,3.3,CV Hakim Hutasoit,Depok
+226,Sambal Sambal Teri 454ml,Sambal Teri,34074,473,7/15/2025,7/5/2026,3.2,Perum Kuswandari (Persero) Tbk,Salatiga
+227,Sambal Sambal Roa 140ml,Sambal Roa,49482,421,7/15/2025,1/13/2026,3.9,PD Marpaung (Persero) Tbk,Balikpapan
+228,Sambel Sambal Bawang 140ml,Sambal Cumi,53314,151,7/15/2025,3/18/2026,3.6,UD Jailani Damanik,Tanjungpinang
+229,Sambel Sambal Ijo 453ml,Sambal Teri,33038,228,7/15/2025,11/3/2025,4.3,PD Nasyiah Narpati Tbk,Payakumbuh
+230,Sambel Sambal Roa 240ml,Sambal Terasi,14917,343,7/15/2025,5/8/2026,3.4,CV Halim Ramadan,Pasuruan
+231,Sambal Sambal Terasi 173ml,Sambal Teri,12280,64,7/15/2025,11/16/2025,3.1,PD Mustofa (Persero) Tbk,Bandung
+232,Sambel Sambal Cumi 296ml,Sambal Terasi,49655,78,7/15/2025,5/31/2026,4.9,UD Zulkarnain Pratama,Binjai
+233,Sambel Sambal Teri 490ml,Sambal Bawang,47612,70,7/15/2025,7/11/2026,3.4,CV Thamrin Tbk,Bukittinggi
+234,Sambel Sambal Tomat 227ml,Sambal Bawang,11698,376,7/15/2025,1/16/2026,3.7,PT Lailasari Hutapea Tbk,Pariaman
+235,Sambel Sambal Bawang 234ml,Sambal Tomat,56139,228,7/15/2025,1/30/2026,5,CV Suartini Kuswandari,Singkawang
+236,Sambel Sambal Teri 202ml,Sambal Bawang,18895,436,7/15/2025,11/19/2025,3.6,PT Budiyanto Tbk,Langsa
+237,Sambel Sambal Bawang 449ml,Sambal Cumi,53767,177,7/15/2025,11/15/2025,3.9,PT Firgantoro Safitri,Surakarta
+238,Sambel Sambal Tomat 180ml,Sambal Ijo,62015,185,7/15/2025,6/30/2026,3.1,PD Lailasari Yolanda,Pariaman
+239,Sambal Sambal Ijo 221ml,Sambal Teri,11722,184,7/15/2025,4/19/2026,3.7,PT Adriansyah Sitompul (Persero) Tbk,Denpasar
+240,Sambal Sambal Bawang 133ml,Sambal Tomat,36093,367,7/15/2025,6/15/2026,3.8,UD Tarihoran Pangestu,Prabumulih
+241,Sambel Sambal Bawang 164ml,Sambal Cumi,52096,37,7/15/2025,5/31/2026,3.7,UD Narpati (Persero) Tbk,Purwokerto
+242,Sambel Sambal Ijo 499ml,Sambal Ijo,60317,494,7/15/2025,12/18/2025,3.6,PT Farida Rajasa,Kendari
+243,Sambal Sambal Bawang 365ml,Sambal Ijo,29931,84,7/15/2025,1/3/2026,3.3,CV Hariyah,Banjarmasin
+244,Sambal Sambal Cumi 365ml,Sambal Tomat,65439,40,7/15/2025,2/18/2026,3,PD Mulyani Manullang,Batu
+245,Sambel Sambal Ijo 420ml,Sambal Tomat,50267,273,7/15/2025,11/29/2025,3.8,Perum Pradana Mangunsong Tbk,Padang Sidempuan
+246,Sambal Sambal Ijo 187ml,Sambal Cumi,65216,473,7/15/2025,11/3/2025,4.6,PD Prastuti,Banda Aceh
+247,Sambal Sambal Bawang 123ml,Sambal Tomat,52672,107,7/15/2025,5/14/2026,4,UD Astuti Nurdiyanti Tbk,Banda Aceh
+248,Sambal Sambal Teri 421ml,Sambal Tomat,52068,489,7/15/2025,3/16/2026,3.7,UD Nuraini Hutasoit,Solok
+249,Sambel Sambal Tomat 332ml,Sambal Bawang,55128,30,7/15/2025,1/1/2026,3.6,CV Fujiati,Cilegon
+250,Sambel Sambal Teri 204ml,Sambal Cumi,49758,73,7/15/2025,3/22/2026,4.7,UD Wahyudin Permadi Tbk,Tangerang
+251,Sambel Sambal Cumi 304ml,Sambal Ijo,59850,189,7/15/2025,7/3/2026,3.9,PD Hariyah,Salatiga
+252,Sambel Sambal Matah 338ml,Sambal Bawang,27529,230,7/15/2025,2/16/2026,2.9,PT Mandala Tbk,Bau-Bau
+253,Sambal Sambal Tomat 296ml,Sambal Roa,26270,492,7/15/2025,1/2/2026,4.5,Perum Halimah Tbk,Surakarta
+254,Sambel Sambal Matah 490ml,Sambal Ijo,42654,263,7/15/2025,6/9/2026,3.7,CV Budiyanto Tbk,Padangpanjang
+255,Sambel Sambal Teri 111ml,Sambal Bawang,71946,201,7/15/2025,6/28/2026,3.6,PT Mahendra Mardhiyah (Persero) Tbk,Lhokseumawe
+256,Sambal Sambal Matah 398ml,Sambal Cumi,13188,25,7/15/2025,3/6/2026,3.7,CV Utami Prasetyo,Pagaralam
+257,Sambel Sambal Tomat 374ml,Sambal Terasi,65520,55,7/15/2025,5/21/2026,2.8,PD Najmudin Pratama Tbk,Palu
+258,Sambel Sambal Cumi 491ml,Sambal Roa,33982,23,7/15/2025,5/6/2026,2.6,Perum Purwanti Tbk,Kota Administrasi Jakarta Utara
+259,Sambal Sambal Cumi 383ml,Sambal Tomat,14818,197,7/15/2025,6/28/2026,3.6,CV Sihotang Laksita,Tanjungbalai
+260,Sambel Sambal Bawang 165ml,Sambal Bawang,35814,191,7/15/2025,4/4/2026,3.9,CV Mustofa Zulkarnain,Tanjungpinang
+261,Sambel Sambal Ijo 201ml,Sambal Roa,42773,20,7/15/2025,11/5/2025,2.6,PT Pratama Tbk,Kota Administrasi Jakarta Barat
+262,Sambel Sambal Teri 365ml,Sambal Teri,19760,310,7/15/2025,7/3/2026,2.8,UD Permata Sihombing,Solok
+263,Sambel Sambal Ijo 301ml,Sambal Tomat,48910,172,7/15/2025,6/29/2026,4.6,PT Natsir (Persero) Tbk,Semarang
+264,Sambel Sambal Tomat 343ml,Sambal Terasi,34140,169,7/15/2025,12/8/2025,4.9,Perum Utama Damanik,Jayapura
+265,Sambel Sambal Terasi 405ml,Sambal Teri,27401,495,7/15/2025,2/6/2026,4.3,CV Handayani Saragih,Purwokerto
+266,Sambel Sambal Ijo 368ml,Sambal Roa,19684,420,7/15/2025,2/14/2026,2.6,CV Wijaya,Pontianak
+267,Sambal Sambal Matah 109ml,Sambal Teri,30558,214,7/15/2025,12/29/2025,3.5,UD Mansur,Mataram
+268,Sambal Sambal Roa 356ml,Sambal Teri,67200,434,7/15/2025,11/13/2025,4.3,Perum Sihotang Lestari (Persero) Tbk,Bogor
+269,Sambal Sambal Cumi 439ml,Sambal Teri,44437,192,7/15/2025,3/22/2026,4.9,PD Saputra,Tidore Kepulauan
+270,Sambel Sambal Cumi 379ml,Sambal Cumi,54293,395,7/15/2025,2/25/2026,4,UD Kuswoyo Sihotang Tbk,Pariaman
+271,Sambal Sambal Matah 242ml,Sambal Tomat,24736,482,7/15/2025,3/14/2026,4.4,Perum Natsir Tbk,Kotamobagu
+272,Sambal Sambal Teri 262ml,Sambal Teri,32859,286,7/15/2025,3/2/2026,3.2,Perum Winarsih,Jayapura
+273,Sambel Sambal Roa 276ml,Sambal Ijo,29035,21,7/15/2025,3/9/2026,4.9,UD Iswahyudi Tbk,Singkawang
+274,Sambal Sambal Cumi 326ml,Sambal Tomat,58977,245,7/15/2025,1/30/2026,3,Perum Wastuti,Bekasi
+275,Sambel Sambal Tomat 170ml,Sambal Bawang,50349,379,7/15/2025,2/12/2026,3.1,CV Gunawan,Denpasar
+276,Sambal Sambal Matah 126ml,Sambal Bawang,37086,169,7/15/2025,6/11/2026,2.8,PD Adriansyah Sirait Tbk,Kota Administrasi Jakarta Pusat
+277,Sambal Sambal Terasi 381ml,Sambal Ijo,36667,334,7/15/2025,6/13/2026,3.7,Perum Rahimah Uwais (Persero) Tbk,Bengkulu
+278,Sambal Sambal Tomat 264ml,Sambal Tomat,52329,30,7/15/2025,11/27/2025,4.1,Perum Mansur,Purwokerto
+279,Sambal Sambal Terasi 189ml,Sambal Roa,67818,428,7/15/2025,1/11/2026,4.8,CV Riyanti (Persero) Tbk,Palopo
+280,Sambal Sambal Roa 353ml,Sambal Ijo,71381,383,7/15/2025,3/10/2026,4.7,Perum Prabowo Tbk,Palembang
+281,Sambal Sambal Tomat 390ml,Sambal Bawang,70847,171,7/15/2025,3/7/2026,3.6,CV Farida (Persero) Tbk,Batu
+282,Sambel Sambal Ijo 358ml,Sambal Teri,27880,98,7/15/2025,12/9/2025,3.3,Perum Nugroho,Bau-Bau
+283,Sambel Sambal Tomat 467ml,Sambal Ijo,10923,377,7/15/2025,4/3/2026,4.5,Perum Latupono Tbk,Bandar Lampung
+284,Sambal Sambal Ijo 412ml,Sambal Roa,64197,218,7/15/2025,7/3/2026,3.3,PD Andriani Pertiwi,Padang
+285,Sambel Sambal Bawang 194ml,Sambal Ijo,41290,165,7/15/2025,2/17/2026,2.5,PT Wibowo Winarno,Pontianak
+286,Sambel Sambal Matah 328ml,Sambal Tomat,72523,168,7/15/2025,3/16/2026,4,Perum Manullang (Persero) Tbk,Bogor
+287,Sambal Sambal Tomat 434ml,Sambal Cumi,55401,120,7/15/2025,11/13/2025,4.2,UD Napitupulu Tbk,Mojokerto
+288,Sambel Sambal Tomat 181ml,Sambal Roa,54962,257,7/15/2025,3/21/2026,4.2,CV Pudjiastuti Latupono Tbk,Semarang
+289,Sambel Sambal Cumi 414ml,Sambal Matah,24360,490,7/15/2025,12/20/2025,3.7,CV Mansur (Persero) Tbk,Malang
+290,Sambel Sambal Cumi 312ml,Sambal Teri,59633,275,7/15/2025,2/1/2026,4.4,PT Zulaika (Persero) Tbk,Manado
+291,Sambal Sambal Teri 370ml,Sambal Cumi,15118,469,7/15/2025,12/9/2025,2.7,PT Permata Prakasa,Prabumulih
+292,Sambal Sambal Ijo 184ml,Sambal Cumi,65999,266,7/15/2025,5/27/2026,2.8,PD Simbolon Tbk,Binjai
+293,Sambal Sambal Teri 146ml,Sambal Teri,62998,28,7/15/2025,6/2/2026,2.8,CV Irawan,Banjar
+294,Sambel Sambal Teri 388ml,Sambal Terasi,46621,236,7/15/2025,3/19/2026,4.3,PT Pertiwi,Kota Administrasi Jakarta Selatan
+295,Sambel Sambal Tomat 101ml,Sambal Matah,47900,37,7/15/2025,11/5/2025,3.6,PD Pertiwi,Ambon
+296,Sambal Sambal Terasi 135ml,Sambal Teri,12079,146,7/15/2025,5/10/2026,2.9,CV Suryatmi Tbk,Pagaralam
+297,Sambal Sambal Roa 291ml,Sambal Roa,39395,445,7/15/2025,4/24/2026,3.4,PT Maryadi Permata,Pematangsiantar
+298,Sambal Sambal Cumi 160ml,Sambal Ijo,45209,201,7/15/2025,7/10/2026,2.8,Perum Yuliarti,Surabaya
+299,Sambal Sambal Terasi 487ml,Sambal Terasi,74126,152,7/15/2025,6/7/2026,4.2,UD Wijaya,Tidore Kepulauan
+300,Sambel Sambal Roa 217ml,Sambal Matah,40187,177,7/15/2025,12/31/2025,3.2,Perum Pudjiastuti Tbk,Jayapura
+301,Sambal Sambal Terasi 438ml,Sambal Roa,50299,392,7/15/2025,10/21/2025,3.1,Perum Halim,Meulaboh
+302,Sambal Sambal Bawang 404ml,Sambal Terasi,39257,306,7/15/2025,11/6/2025,3.1,PT Puspita Pradipta Tbk,Tanjungpinang
+303,Sambal Sambal Roa 324ml,Sambal Matah,45373,111,7/15/2025,11/10/2025,2.9,Perum Simanjuntak Uwais (Persero) Tbk,Bukittinggi
+304,Sambel Sambal Matah 474ml,Sambal Cumi,47845,306,7/15/2025,3/26/2026,3.1,Perum Nababan (Persero) Tbk,Tarakan
+305,Sambal Sambal Matah 311ml,Sambal Tomat,28032,31,7/15/2025,1/10/2026,4.1,PT Sitompul Prasetya,Pematangsiantar
+306,Sambel Sambal Teri 124ml,Sambal Cumi,71707,329,7/15/2025,4/26/2026,4.5,Perum Sudiati Haryanti Tbk,Banjarmasin
+307,Sambel Sambal Roa 309ml,Sambal Ijo,29653,192,7/15/2025,1/15/2026,4.4,CV Permadi,Ambon
+308,Sambel Sambal Matah 215ml,Sambal Tomat,66199,362,7/15/2025,12/25/2025,4.5,UD Hasanah (Persero) Tbk,Salatiga
+309,Sambal Sambal Roa 313ml,Sambal Ijo,35455,124,7/15/2025,2/20/2026,3,UD Yulianti (Persero) Tbk,Bekasi
+310,Sambal Sambal Teri 289ml,Sambal Bawang,45103,370,7/15/2025,1/18/2026,2.6,PD Lestari Sihotang Tbk,Cilegon
+311,Sambel Sambal Terasi 137ml,Sambal Matah,62733,389,7/15/2025,2/1/2026,3.7,PD Waluyo (Persero) Tbk,Batam
+312,Sambel Sambal Tomat 107ml,Sambal Matah,71417,97,7/15/2025,12/12/2025,4.4,UD Wijayanti,Kota Administrasi Jakarta Selatan
+313,Sambel Sambal Matah 456ml,Sambal Matah,35993,468,7/15/2025,2/12/2026,3.9,Perum Wijayanti Nuraini,Pasuruan
+314,Sambel Sambal Roa 338ml,Sambal Cumi,30212,133,7/15/2025,4/15/2026,3.8,PD Haryanto Uyainah,Prabumulih
+315,Sambel Sambal Teri 150ml,Sambal Teri,59914,429,7/15/2025,3/25/2026,4.8,PT Manullang,Medan
+316,Sambel Sambal Cumi 311ml,Sambal Terasi,46865,442,7/15/2025,2/3/2026,4.4,Perum Maheswara,Sibolga
+317,Sambal Sambal Tomat 383ml,Sambal Roa,29345,78,7/15/2025,1/21/2026,3.3,PT Andriani Latupono,Manado
+318,Sambel Sambal Matah 355ml,Sambal Cumi,26864,390,7/15/2025,6/20/2026,4.9,Perum Dabukke (Persero) Tbk,Langsa
+319,Sambel Sambal Teri 186ml,Sambal Cumi,21092,71,7/15/2025,6/20/2026,3,UD Maryati,Tarakan
+320,Sambal Sambal Terasi 138ml,Sambal Terasi,60091,3,7/15/2025,5/12/2026,2.8,UD Utami (Persero) Tbk,Tasikmalaya
+321,Sambal Sambal Bawang 462ml,Sambal Ijo,10599,111,7/15/2025,6/28/2026,3.6,Perum Yulianti,Tebingtinggi
+322,Sambal Sambal Teri 437ml,Sambal Teri,11030,3,7/15/2025,7/12/2026,3.9,CV Wastuti Tbk,Tasikmalaya
+323,Sambal Sambal Terasi 371ml,Sambal Tomat,45110,500,7/15/2025,3/8/2026,2.5,PT Hakim (Persero) Tbk,Bengkulu
+324,Sambel Sambal Ijo 154ml,Sambal Bawang,44366,76,7/15/2025,2/13/2026,3,Perum Gunawan (Persero) Tbk,Samarinda
+325,Sambel Sambal Cumi 236ml,Sambal Roa,15178,191,7/15/2025,5/8/2026,3.6,Perum Laksmiwati Siregar Tbk,Balikpapan
+326,Sambal Sambal Matah 253ml,Sambal Bawang,52843,439,7/15/2025,10/29/2025,2.7,PT Napitupulu (Persero) Tbk,Kendari
+327,Sambel Sambal Roa 382ml,Sambal Teri,13677,326,7/15/2025,10/17/2025,4.3,Perum Saragih (Persero) Tbk,Purwokerto
+328,Sambal Sambal Teri 322ml,Sambal Cumi,47083,500,7/15/2025,11/30/2025,4.7,CV Irawan (Persero) Tbk,Kendari
+329,Sambal Sambal Matah 208ml,Sambal Teri,27766,23,7/15/2025,11/20/2025,4.2,Perum Mayasari Tbk,Palopo
+330,Sambel Sambal Terasi 191ml,Sambal Cumi,11026,492,7/15/2025,1/27/2026,4,PD Sitompul Fujiati,Tangerang
+331,Sambel Sambal Bawang 253ml,Sambal Ijo,46959,123,7/15/2025,4/30/2026,4.2,CV Ardianto,Meulaboh
+332,Sambel Sambal Roa 486ml,Sambal Ijo,61806,352,7/15/2025,11/22/2025,3.8,UD Pratiwi Nababan,Sungai Penuh
+333,Sambel Sambal Terasi 150ml,Sambal Roa,25213,429,7/15/2025,11/20/2025,3.4,Perum Dongoran Firmansyah,Medan
+334,Sambel Sambal Cumi 115ml,Sambal Tomat,61350,230,7/15/2025,6/21/2026,3.1,CV Megantara Padmasari,Kediri
+335,Sambel Sambal Roa 195ml,Sambal Roa,15616,395,7/15/2025,3/13/2026,4.5,PD Suartini,Sukabumi
+336,Sambal Sambal Bawang 237ml,Sambal Ijo,34903,364,7/15/2025,12/30/2025,4.3,Perum Budiman Pratama,Dumai
+337,Sambel Sambal Cumi 154ml,Sambal Bawang,10340,482,7/15/2025,3/19/2026,3.6,CV Halim,Cimahi
+338,Sambel Sambal Bawang 167ml,Sambal Bawang,22280,220,7/15/2025,5/30/2026,3.9,CV Simbolon Natsir Tbk,Sibolga
+339,Sambel Sambal Bawang 113ml,Sambal Bawang,33194,283,7/15/2025,11/29/2025,4,UD Waluyo Purwanti,Meulaboh
+340,Sambel Sambal Roa 106ml,Sambal Tomat,37119,198,7/15/2025,11/25/2025,4.3,CV Pudjiastuti,Palangkaraya
+341,Sambal Sambal Ijo 450ml,Sambal Roa,21108,71,7/15/2025,2/27/2026,3.3,CV Kuswandari Laksita,Solok
+342,Sambel Sambal Ijo 132ml,Sambal Ijo,38486,141,7/15/2025,5/16/2026,3.2,PD Permadi Haryanti,Pariaman
+343,Sambal Sambal Cumi 228ml,Sambal Matah,57244,320,7/15/2025,6/23/2026,4,Perum Simbolon Tbk,Sukabumi
+344,Sambal Sambal Teri 154ml,Sambal Ijo,29966,3,7/15/2025,5/3/2026,3.3,PT Prayoga Safitri,Jayapura
+345,Sambel Sambal Cumi 325ml,Sambal Cumi,38220,417,7/15/2025,12/21/2025,3.3,CV Usada Pradipta Tbk,Probolinggo
+346,Sambal Sambal Teri 260ml,Sambal Ijo,73214,203,7/15/2025,3/25/2026,3.2,PT Santoso Hutasoit Tbk,Depok
+347,Sambel Sambal Matah 266ml,Sambal Roa,28369,418,7/15/2025,5/2/2026,3.4,UD Yuliarti Wulandari,Pekanbaru
+348,Sambal Sambal Ijo 449ml,Sambal Terasi,72456,372,7/15/2025,6/6/2026,4.9,UD Hidayat,Binjai
+349,Sambal Sambal Teri 249ml,Sambal Bawang,63671,434,7/15/2025,5/10/2026,4.2,PD Megantara,Lhokseumawe
+350,Sambal Sambal Tomat 223ml,Sambal Tomat,53166,78,7/15/2025,5/17/2026,4.5,Perum Firgantoro Uwais (Persero) Tbk,Jambi
+351,Sambal Sambal Teri 406ml,Sambal Teri,48157,205,7/15/2025,7/13/2026,3.8,UD Utami Tbk,Bima
+352,Sambel Sambal Terasi 284ml,Sambal Bawang,17167,393,7/15/2025,2/17/2026,4.1,CV Damanik (Persero) Tbk,Batam
+353,Sambel Sambal Ijo 431ml,Sambal Terasi,46911,330,7/15/2025,5/5/2026,4.9,CV Pertiwi Wibisono,Kota Administrasi Jakarta Pusat
+354,Sambel Sambal Roa 154ml,Sambal Terasi,16462,132,7/15/2025,2/3/2026,3.8,UD Mulyani Hasanah (Persero) Tbk,Metro
+355,Sambal Sambal Teri 291ml,Sambal Roa,40347,395,7/15/2025,6/26/2026,2.9,PD Susanti Prayoga (Persero) Tbk,Makassar
+356,Sambal Sambal Teri 153ml,Sambal Tomat,37261,471,7/15/2025,11/25/2025,2.8,UD Manullang Haryanto (Persero) Tbk,Cirebon
+357,Sambal Sambal Cumi 259ml,Sambal Cumi,39840,401,7/15/2025,1/26/2026,3.8,PD Lailasari Wahyudin,Pekanbaru
+358,Sambel Sambal Teri 149ml,Sambal Teri,57316,356,7/15/2025,6/1/2026,3.3,UD Gunarto Wulandari,Tomohon
+359,Sambel Sambal Terasi 463ml,Sambal Bawang,11480,434,7/15/2025,4/6/2026,4.1,UD Prayoga,Banjar
+360,Sambal Sambal Matah 364ml,Sambal Ijo,46169,81,7/15/2025,3/31/2026,3.9,PD Nuraini Tamba,Payakumbuh
+361,Sambel Sambal Matah 307ml,Sambal Ijo,22215,327,7/15/2025,5/22/2026,3.5,PT Megantara,Surabaya
+362,Sambal Sambal Teri 403ml,Sambal Roa,35482,2,7/15/2025,1/30/2026,3,PD Namaga Sitorus,Cirebon
+363,Sambal Sambal Bawang 374ml,Sambal Ijo,33972,166,7/15/2025,1/21/2026,3.6,PT Rajasa Wahyuni (Persero) Tbk,Batam
+364,Sambel Sambal Teri 370ml,Sambal Cumi,49123,198,7/15/2025,5/1/2026,4,PD Rahmawati Budiyanto,Cilegon
+365,Sambel Sambal Cumi 334ml,Sambal Ijo,63329,344,7/15/2025,3/14/2026,4.8,UD Sihombing Haryanti,Padangpanjang
+366,Sambal Sambal Ijo 260ml,Sambal Bawang,25635,156,7/15/2025,12/11/2025,3,Perum Kuswoyo Wulandari,Pontianak
+367,Sambal Sambal Roa 314ml,Sambal Ijo,47670,196,7/15/2025,5/17/2026,3,Perum Pradana Tbk,Metro
+368,Sambal Sambal Ijo 350ml,Sambal Tomat,19194,95,7/15/2025,3/23/2026,4.6,UD Handayani Nuraini Tbk,Batam
+369,Sambal Sambal Cumi 104ml,Sambal Teri,18947,99,7/15/2025,4/27/2026,4.9,PD Suwarno,Yogyakarta
+370,Sambel Sambal Roa 450ml,Sambal Teri,37238,363,7/15/2025,5/28/2026,3.7,Perum Iswahyudi (Persero) Tbk,Tanjungpinang
+371,Sambal Sambal Terasi 489ml,Sambal Matah,29142,16,7/15/2025,3/2/2026,3.1,PD Saefullah (Persero) Tbk,Subulussalam
+372,Sambel Sambal Ijo 499ml,Sambal Teri,47070,380,7/15/2025,6/23/2026,3.9,UD Aryani,Mataram
+373,Sambal Sambal Bawang 237ml,Sambal Cumi,45523,421,7/15/2025,11/3/2025,4.4,PD Wijayanti Nasyiah,Kupang
+374,Sambel Sambal Matah 317ml,Sambal Bawang,58233,424,7/15/2025,2/16/2026,3.2,PT Uwais Mulyani,Bogor
+375,Sambal Sambal Teri 234ml,Sambal Cumi,66505,418,7/15/2025,11/26/2025,3.6,PT Pertiwi Sitompul (Persero) Tbk,Surabaya
+376,Sambal Sambal Matah 207ml,Sambal Cumi,66429,363,7/15/2025,5/20/2026,2.9,CV Mahendra,Pangkalpinang
+377,Sambal Sambal Matah 205ml,Sambal Terasi,47360,179,7/15/2025,7/12/2026,3.2,UD Samosir (Persero) Tbk,Padangpanjang
+378,Sambal Sambal Cumi 460ml,Sambal Tomat,28961,293,7/15/2025,2/26/2026,4.9,PD Oktaviani Zulkarnain,Samarinda
+379,Sambal Sambal Ijo 484ml,Sambal Roa,70212,30,7/15/2025,3/3/2026,4.7,Perum Wibowo Sitorus (Persero) Tbk,Subulussalam
+380,Sambal Sambal Ijo 227ml,Sambal Ijo,56621,164,7/15/2025,2/16/2026,4.4,PT Maheswara Permata,Sibolga
+381,Sambel Sambal Teri 172ml,Sambal Tomat,51144,212,7/15/2025,4/23/2026,3.6,UD Saefullah,Kota Administrasi Jakarta Selatan
+382,Sambal Sambal Roa 363ml,Sambal Tomat,55528,479,7/15/2025,4/19/2026,3.6,Perum Aryani,Meulaboh
+383,Sambel Sambal Cumi 397ml,Sambal Terasi,66944,396,7/15/2025,11/29/2025,4.3,PD Adriansyah (Persero) Tbk,Kota Administrasi Jakarta Timur
+384,Sambel Sambal Cumi 132ml,Sambal Roa,24275,495,7/15/2025,5/20/2026,4.6,PD Tampubolon,Dumai
+385,Sambel Sambal Tomat 265ml,Sambal Tomat,32135,280,7/15/2025,12/18/2025,3.9,UD Megantara Pertiwi,Bitung
+386,Sambel Sambal Cumi 449ml,Sambal Terasi,13010,50,7/15/2025,6/5/2026,2.5,PT Mahendra Mardhiyah (Persero) Tbk,Ambon
+387,Sambal Sambal Teri 333ml,Sambal Terasi,72785,219,7/15/2025,1/24/2026,5,Perum Mansur Prasasta Tbk,Tangerang Selatan
+388,Sambal Sambal Tomat 181ml,Sambal Tomat,16117,335,7/15/2025,4/15/2026,3.1,UD Budiman Tamba Tbk,Sorong
+389,Sambel Sambal Ijo 126ml,Sambal Roa,50999,156,7/15/2025,2/9/2026,3.6,Perum Purnawati Halim,Banjar
+390,Sambal Sambal Bawang 100ml,Sambal Matah,41248,39,7/15/2025,12/19/2025,4,UD Tampubolon Puspasari Tbk,Sawahlunto
+391,Sambel Sambal Terasi 104ml,Sambal Cumi,63550,61,7/15/2025,5/17/2026,4.2,PT Maulana Zulaika Tbk,Sabang
+392,Sambel Sambal Bawang 217ml,Sambal Roa,15854,374,7/15/2025,12/4/2025,2.8,CV Farida,Mojokerto
+393,Sambel Sambal Tomat 170ml,Sambal Roa,60689,416,7/15/2025,12/20/2025,4.1,Perum Handayani,Pasuruan
+394,Sambal Sambal Bawang 371ml,Sambal Terasi,49997,332,7/15/2025,1/5/2026,3.6,PD Oktaviani,Pematangsiantar
+395,Sambal Sambal Ijo 310ml,Sambal Teri,66358,111,7/15/2025,11/26/2025,4.7,UD Pertiwi,Prabumulih
+396,Sambal Sambal Bawang 401ml,Sambal Roa,33038,493,7/15/2025,5/20/2026,3.3,CV Santoso Pangestu,Padang Sidempuan
+397,Sambal Sambal Matah 241ml,Sambal Bawang,26263,283,7/15/2025,3/7/2026,4.4,PT Laksmiwati Tbk,Tangerang
+398,Sambal Sambal Tomat 205ml,Sambal Matah,59010,200,7/15/2025,3/13/2026,4.1,PT Nurdiyanti Tbk,Yogyakarta
+399,Sambal Sambal Teri 297ml,Sambal Bawang,25799,255,7/15/2025,11/18/2025,3.8,UD Hassanah,Kota Administrasi Jakarta Pusat
+400,Sambal Sambal Cumi 262ml,Sambal Ijo,35351,440,7/15/2025,5/16/2026,3.4,PD Najmudin Wijayanti (Persero) Tbk,Malang
+401,Sambal Sambal Teri 494ml,Sambal Bawang,11093,300,7/15/2025,11/16/2025,2.5,UD Widiastuti,Cirebon
+402,Sambal Sambal Terasi 130ml,Sambal Roa,43201,146,7/15/2025,6/26/2026,4.4,CV Januar Tbk,Kota Administrasi Jakarta Utara
+403,Sambel Sambal Roa 142ml,Sambal Ijo,28184,42,7/15/2025,3/20/2026,2.7,Perum Suryono Tbk,Depok
+404,Sambal Sambal Ijo 374ml,Sambal Cumi,35606,300,7/15/2025,11/15/2025,3.3,CV Rajata,Depok
+405,Sambel Sambal Matah 129ml,Sambal Matah,15650,473,7/15/2025,5/23/2026,2.8,CV Wastuti Tbk,Kota Administrasi Jakarta Timur
+406,Sambal Sambal Tomat 441ml,Sambal Ijo,17827,6,7/15/2025,12/22/2025,4.3,UD Puspasari Santoso,Magelang
+407,Sambal Sambal Teri 277ml,Sambal Tomat,20942,190,7/15/2025,12/16/2025,4.4,CV Mandasari (Persero) Tbk,Tanjungpinang
+408,Sambel Sambal Bawang 494ml,Sambal Terasi,31955,413,7/15/2025,5/20/2026,3.2,PD Suryono (Persero) Tbk,Palopo
+409,Sambal Sambal Tomat 464ml,Sambal Bawang,42515,233,7/15/2025,7/1/2026,3.4,PT Farida Tbk,Sukabumi
+410,Sambel Sambal Ijo 288ml,Sambal Ijo,26719,395,7/15/2025,12/4/2025,4.7,Perum Siregar Tbk,Tidore Kepulauan
+411,Sambal Sambal Matah 479ml,Sambal Terasi,12886,439,7/15/2025,10/19/2025,3.1,UD Usada,Parepare
+412,Sambel Sambal Cumi 296ml,Sambal Ijo,21728,476,7/15/2025,10/31/2025,3.9,PT Thamrin,Mataram
+413,Sambel Sambal Matah 264ml,Sambal Matah,37279,468,7/15/2025,3/25/2026,3.2,CV Natsir Agustina,Padangpanjang
+414,Sambal Sambal Cumi 161ml,Sambal Terasi,21753,114,7/15/2025,7/4/2026,5,UD Puspita,Bukittinggi
+415,Sambel Sambal Bawang 338ml,Sambal Tomat,60693,432,7/15/2025,3/21/2026,3.3,Perum Hariyah (Persero) Tbk,Jayapura
+416,Sambel Sambal Terasi 288ml,Sambal Matah,29109,288,7/15/2025,3/17/2026,4.3,Perum Rahayu,Lubuklinggau
+417,Sambal Sambal Teri 288ml,Sambal Teri,60633,397,7/15/2025,1/21/2026,4.3,PT Wijayanti Halim,Tarakan
+418,Sambal Sambal Ijo 103ml,Sambal Roa,11566,119,7/15/2025,4/8/2026,4.1,Perum Nurdiyanti,Tanjungbalai
+419,Sambal Sambal Cumi 100ml,Sambal Roa,65640,377,7/15/2025,3/19/2026,2.8,PT Suartini Latupono (Persero) Tbk,Bandar Lampung
+420,Sambal Sambal Roa 351ml,Sambal Terasi,73737,72,7/15/2025,3/5/2026,2.7,Perum Andriani Tamba (Persero) Tbk,Balikpapan
+421,Sambal Sambal Roa 458ml,Sambal Cumi,40045,498,7/15/2025,11/25/2025,4,PD Kusmawati Agustina,Tidore Kepulauan
+422,Sambal Sambal Roa 138ml,Sambal Terasi,38507,339,7/15/2025,12/18/2025,3.1,PD Kuswoyo Megantara,Batam
+423,Sambel Sambal Cumi 301ml,Sambal Cumi,30844,231,7/15/2025,3/1/2026,3.1,PD Megantara Hutagalung Tbk,Blitar
+424,Sambal Sambal Ijo 499ml,Sambal Bawang,20184,54,7/15/2025,1/5/2026,3.6,PT Hasanah (Persero) Tbk,Pangkalpinang
+425,Sambel Sambal Roa 161ml,Sambal Cumi,73218,394,7/15/2025,1/27/2026,3.6,CV Siregar Firmansyah,Lubuklinggau
+426,Sambel Sambal Tomat 161ml,Sambal Bawang,20329,413,7/15/2025,3/17/2026,4.6,PD Kurniawan Sihombing (Persero) Tbk,Serang
+427,Sambal Sambal Matah 267ml,Sambal Ijo,15977,364,7/15/2025,2/17/2026,4.9,UD Namaga,Pontianak
+428,Sambel Sambal Terasi 446ml,Sambal Tomat,27050,419,7/15/2025,1/10/2026,2.6,PD Melani Sudiati (Persero) Tbk,Binjai
+429,Sambel Sambal Teri 384ml,Sambal Matah,16207,236,7/15/2025,12/4/2025,4.5,Perum Saputra Najmudin Tbk,Ambon
+430,Sambal Sambal Bawang 106ml,Sambal Terasi,64419,399,7/15/2025,2/3/2026,2.8,CV Pratiwi (Persero) Tbk,Tual
+431,Sambel Sambal Cumi 451ml,Sambal Bawang,48163,300,7/15/2025,2/22/2026,4.8,Perum Safitri (Persero) Tbk,Probolinggo
+432,Sambal Sambal Terasi 133ml,Sambal Matah,69145,330,7/15/2025,5/28/2026,4.5,Perum Rahimah,Batam
+433,Sambal Sambal Cumi 162ml,Sambal Terasi,71753,236,7/15/2025,11/7/2025,2.9,PT Wacana (Persero) Tbk,Sungai Penuh
+434,Sambel Sambal Roa 354ml,Sambal Terasi,35082,349,7/15/2025,5/19/2026,2.9,UD Hardiansyah,Solok
+435,Sambal Sambal Ijo 240ml,Sambal Tomat,39229,452,7/15/2025,12/28/2025,2.6,PD Sudiati Kusumo Tbk,Padangpanjang
+436,Sambal Sambal Tomat 355ml,Sambal Roa,67853,281,7/15/2025,6/15/2026,2.7,Perum Wahyuni,Palembang
+437,Sambel Sambal Roa 170ml,Sambal Roa,23071,329,7/15/2025,7/9/2026,3.1,PD Widodo,Langsa
+438,Sambal Sambal Roa 500ml,Sambal Cumi,41436,278,7/15/2025,6/18/2026,3.4,CV Suryono Tbk,Metro
+439,Sambel Sambal Roa 238ml,Sambal Ijo,11708,163,7/15/2025,2/2/2026,2.6,CV Saputra,Bima
+440,Sambel Sambal Terasi 341ml,Sambal Cumi,60255,299,7/15/2025,2/9/2026,4.9,Perum Hutasoit,Medan
+441,Sambal Sambal Matah 436ml,Sambal Matah,27467,273,7/15/2025,11/10/2025,4.4,Perum Prasetya Sirait,Yogyakarta
+442,Sambal Sambal Roa 281ml,Sambal Ijo,21540,121,7/15/2025,3/24/2026,4.5,CV Aryani Mardhiyah,Mojokerto
+443,Sambel Sambal Terasi 460ml,Sambal Cumi,72099,290,7/15/2025,12/24/2025,3.9,Perum Latupono Tbk,Singkawang
+444,Sambal Sambal Teri 377ml,Sambal Tomat,21505,251,7/15/2025,11/1/2025,2.7,UD Hutagalung (Persero) Tbk,Palembang
+445,Sambal Sambal Matah 110ml,Sambal Teri,10044,169,7/15/2025,1/24/2026,4.5,PT Santoso Manullang (Persero) Tbk,Pekanbaru
+446,Sambel Sambal Ijo 265ml,Sambal Terasi,11436,75,7/15/2025,12/24/2025,4.4,Perum Manullang Handayani Tbk,Bengkulu
+447,Sambel Sambal Bawang 291ml,Sambal Roa,48405,51,7/15/2025,4/3/2026,3.3,PT Melani Tbk,Singkawang
+448,Sambal Sambal Ijo 474ml,Sambal Roa,61894,327,7/15/2025,6/19/2026,4.1,Perum Budiman,Balikpapan
+449,Sambal Sambal Cumi 214ml,Sambal Ijo,34797,157,7/15/2025,3/12/2026,2.8,PT Agustina (Persero) Tbk,Kendari
+450,Sambal Sambal Roa 494ml,Sambal Terasi,21932,308,7/15/2025,3/24/2026,4.8,Perum Widiastuti Dongoran,Yogyakarta
+451,Sambal Sambal Bawang 354ml,Sambal Ijo,31703,381,7/15/2025,11/21/2025,3.1,CV Lestari Tbk,Sungai Penuh
+452,Sambel Sambal Ijo 425ml,Sambal Bawang,63848,362,7/15/2025,4/2/2026,3.6,CV Latupono,Kota Administrasi Jakarta Selatan
+453,Sambel Sambal Matah 227ml,Sambal Bawang,32969,131,7/15/2025,12/7/2025,4.3,PD Waskita,Palopo
+454,Sambal Sambal Roa 324ml,Sambal Roa,73511,85,7/15/2025,5/12/2026,3.7,Perum Laksita Agustina,Banda Aceh
+455,Sambel Sambal Cumi 379ml,Sambal Roa,16647,424,7/15/2025,6/15/2026,4.5,PT Usamah Sitorus,Semarang
+456,Sambal Sambal Ijo 331ml,Sambal Bawang,62376,433,7/15/2025,10/30/2025,3.2,PD Santoso Kuswoyo,Malang
+457,Sambel Sambal Tomat 153ml,Sambal Bawang,32400,87,7/15/2025,4/23/2026,2.9,Perum Nasyiah Suryatmi,Manado
+458,Sambal Sambal Bawang 273ml,Sambal Teri,56170,15,7/15/2025,5/21/2026,4.9,UD Purwanti,Manado
+459,Sambal Sambal Roa 180ml,Sambal Terasi,16636,169,7/15/2025,1/26/2026,4.9,PD Dongoran Damanik (Persero) Tbk,Padang Sidempuan
+460,Sambel Sambal Tomat 438ml,Sambal Tomat,29490,121,7/15/2025,12/1/2025,2.6,CV Sudiati Tbk,Parepare
+461,Sambel Sambal Ijo 127ml,Sambal Cumi,10250,218,7/15/2025,11/26/2025,3.2,CV Rahimah Gunawan (Persero) Tbk,Pasuruan
+462,Sambel Sambal Matah 149ml,Sambal Terasi,23562,87,7/15/2025,3/11/2026,4.9,UD Nainggolan,Parepare
+463,Sambel Sambal Bawang 257ml,Sambal Roa,40863,250,7/15/2025,2/25/2026,2.7,CV Mandala Tbk,Sungai Penuh
+464,Sambel Sambal Ijo 289ml,Sambal Roa,34209,95,7/15/2025,5/29/2026,2.6,PT Nuraini (Persero) Tbk,Depok
+465,Sambel Sambal Teri 234ml,Sambal Matah,64858,137,7/15/2025,11/13/2025,2.9,CV Budiman Budiman,Blitar
+466,Sambal Sambal Bawang 442ml,Sambal Cumi,62964,277,7/15/2025,5/12/2026,4.9,CV Hasanah Suwarno (Persero) Tbk,Sukabumi
+467,Sambal Sambal Terasi 298ml,Sambal Roa,73283,274,7/15/2025,6/13/2026,3.9,Perum Halim (Persero) Tbk,Mataram
+468,Sambal Sambal Teri 253ml,Sambal Bawang,35873,462,7/15/2025,10/30/2025,3.8,CV Jailani Hutasoit,Binjai
+469,Sambal Sambal Bawang 487ml,Sambal Teri,21329,485,7/15/2025,1/6/2026,4.9,PT Maryadi,Padangpanjang
+470,Sambal Sambal Ijo 121ml,Sambal Roa,15135,349,7/15/2025,5/23/2026,3,CV Budiman Saragih,Binjai
+471,Sambal Sambal Tomat 263ml,Sambal Bawang,15703,198,7/15/2025,5/4/2026,3.9,UD Tampubolon Tbk,Sukabumi
+472,Sambel Sambal Teri 106ml,Sambal Roa,17374,212,7/15/2025,12/28/2025,2.9,CV Prasasta (Persero) Tbk,Cimahi
+473,Sambal Sambal Bawang 388ml,Sambal Bawang,61494,146,7/15/2025,7/14/2026,4.7,PT Wastuti,Padang
+474,Sambel Sambal Tomat 296ml,Sambal Teri,47488,311,7/15/2025,6/12/2026,2.6,PD Novitasari,Blitar
+475,Sambel Sambal Roa 173ml,Sambal Roa,12541,202,7/15/2025,3/31/2026,4.2,CV Irawan Kusmawati,Pematangsiantar
+476,Sambal Sambal Teri 237ml,Sambal Cumi,11325,172,7/15/2025,3/17/2026,3.3,UD Ramadan Nuraini (Persero) Tbk,Meulaboh
+477,Sambel Sambal Bawang 216ml,Sambal Ijo,29692,498,7/15/2025,5/27/2026,4.4,CV Simbolon Anggraini,Meulaboh
+478,Sambel Sambal Tomat 473ml,Sambal Roa,49647,330,7/15/2025,11/27/2025,3,PD Wahyuni Tbk,Serang
+479,Sambal Sambal Roa 479ml,Sambal Teri,59774,264,7/15/2025,4/22/2026,4.6,Perum Rajata,Lhokseumawe
+480,Sambal Sambal Bawang 259ml,Sambal Roa,18889,399,7/15/2025,7/8/2026,4.7,PT Wahyuni Maryadi Tbk,Pariaman
+481,Sambal Sambal Ijo 198ml,Sambal Matah,64852,29,7/15/2025,2/17/2026,2.6,CV Andriani,Subulussalam
+482,Sambal Sambal Cumi 460ml,Sambal Matah,27955,188,7/15/2025,6/7/2026,3.8,UD Laksita Rahayu (Persero) Tbk,Pangkalpinang
+483,Sambal Sambal Terasi 223ml,Sambal Cumi,42033,304,7/15/2025,5/29/2026,2.9,PD Adriansyah Halim (Persero) Tbk,Dumai
+484,Sambel Sambal Cumi 276ml,Sambal Ijo,64896,457,7/15/2025,2/22/2026,4.4,UD Wahyudin (Persero) Tbk,Kendari
+485,Sambal Sambal Tomat 114ml,Sambal Roa,13253,83,7/15/2025,1/30/2026,4.6,CV Kusmawati Pangestu,Serang
+486,Sambal Sambal Matah 237ml,Sambal Roa,43638,10,7/15/2025,10/17/2025,3.7,Perum Dabukke (Persero) Tbk,Bengkulu
+487,Sambal Sambal Ijo 407ml,Sambal Terasi,24664,129,7/15/2025,3/18/2026,4.3,UD Budiyanto,Cilegon
+488,Sambel Sambal Roa 292ml,Sambal Cumi,40080,129,7/15/2025,2/1/2026,3.7,CV Melani Tbk,Kota Administrasi Jakarta Selatan
+489,Sambel Sambal Bawang 103ml,Sambal Cumi,46795,331,7/15/2025,3/6/2026,3.2,PT Winarsih Halim Tbk,Kotamobagu
+490,Sambal Sambal Teri 132ml,Sambal Cumi,74773,141,7/15/2025,3/28/2026,4.7,Perum Manullang Uyainah Tbk,Madiun
+491,Sambel Sambal Tomat 196ml,Sambal Ijo,43901,391,7/15/2025,2/13/2026,4.7,PT Prasetya Hidayanto Tbk,Surakarta
+492,Sambel Sambal Cumi 448ml,Sambal Ijo,57270,13,7/15/2025,6/24/2026,5,UD Latupono,Subulussalam
+493,Sambel Sambal Roa 307ml,Sambal Roa,58282,18,7/15/2025,1/18/2026,3.4,Perum Pratiwi Hastuti Tbk,Tomohon
+494,Sambal Sambal Teri 443ml,Sambal Cumi,43247,153,7/15/2025,1/8/2026,4.6,PD Irawan Farida,Padangpanjang
+495,Sambal Sambal Tomat 149ml,Sambal Teri,18384,379,7/15/2025,2/22/2026,4.3,Perum Fujiati (Persero) Tbk,Sorong
+496,Sambal Sambal Cumi 435ml,Sambal Bawang,24565,181,7/15/2025,2/4/2026,4.4,PT Puspasari Haryanto Tbk,Manado
+497,Sambel Sambal Roa 269ml,Sambal Cumi,27076,299,7/15/2025,3/12/2026,3.7,PT Prayoga (Persero) Tbk,Pekalongan
+498,Sambal Sambal Teri 127ml,Sambal Bawang,40947,455,7/15/2025,1/20/2026,3.8,Perum Nasyiah Najmudin (Persero) Tbk,Bekasi
+499,Sambel Sambal Tomat 311ml,Sambal Terasi,67071,437,7/15/2025,12/29/2025,2.8,PD Winarno Sihombing,Semarang
+500,Sambal Sambal Cumi 309ml,Sambal Teri,19386,161,7/15/2025,1/13/2026,4.4,UD Wulandari Pratiwi,Cilegon
+501,Sambel Sambal Cumi 423ml,Sambal Ijo,30539,324,7/15/2025,11/11/2025,2.5,UD Nashiruddin Pertiwi,Bontang
+502,Sambel Sambal Matah 489ml,Sambal Ijo,47767,391,7/15/2025,1/2/2026,3.7,UD Rahimah,Surabaya
+503,Sambal Sambal Ijo 414ml,Sambal Roa,51516,219,7/15/2025,5/7/2026,3.6,PT Pranowo Santoso Tbk,Pekanbaru
+504,Sambel Sambal Roa 102ml,Sambal Terasi,44981,102,7/15/2025,4/22/2026,4.9,Perum Purnawati,Banjarbaru
+505,Sambel Sambal Matah 109ml,Sambal Terasi,51070,375,7/15/2025,2/17/2026,3.1,Perum Usamah Novitasari (Persero) Tbk,Kota Administrasi Jakarta Barat
+506,Sambel Sambal Tomat 166ml,Sambal Bawang,35136,257,7/15/2025,3/18/2026,2.9,CV Dabukke,Sukabumi
+507,Sambal Sambal Tomat 248ml,Sambal Teri,57699,266,7/15/2025,7/8/2026,3.3,PD Napitupulu Samosir,Tasikmalaya
+508,Sambal Sambal Cumi 350ml,Sambal Cumi,59159,96,7/15/2025,1/5/2026,4.9,PD Ardianto Irawan Tbk,Sungai Penuh
+509,Sambel Sambal Terasi 216ml,Sambal Matah,57655,67,7/15/2025,1/29/2026,4.3,UD Nasyiah Handayani,Kendari
+510,Sambal Sambal Bawang 287ml,Sambal Terasi,34588,448,7/15/2025,2/20/2026,4.4,PD Uyainah,Yogyakarta
+511,Sambal Sambal Terasi 438ml,Sambal Bawang,52832,428,7/15/2025,10/23/2025,2.6,Perum Putra (Persero) Tbk,Banjarmasin
+512,Sambal Sambal Roa 327ml,Sambal Roa,18099,280,7/15/2025,2/19/2026,3.7,PD Nuraini Tampubolon (Persero) Tbk,Bau-Bau
+513,Sambal Sambal Matah 455ml,Sambal Terasi,29733,215,7/15/2025,12/3/2025,4.2,PD Tarihoran Tamba Tbk,Banjar
+514,Sambel Sambal Ijo 314ml,Sambal Bawang,43527,368,7/15/2025,12/12/2025,3.2,PT Rahayu Tbk,Jambi
+515,Sambal Sambal Teri 201ml,Sambal Matah,60984,134,7/15/2025,7/7/2026,4.9,Perum Megantara Kuswandari (Persero) Tbk,Magelang
+516,Sambel Sambal Roa 251ml,Sambal Ijo,12582,280,7/15/2025,6/24/2026,4.8,Perum Natsir Tbk,Cimahi
+517,Sambel Sambal Cumi 220ml,Sambal Terasi,10835,343,7/15/2025,11/27/2025,4.8,CV Wibisono Mandala,Makassar
+518,Sambel Sambal Ijo 146ml,Sambal Bawang,57419,370,7/15/2025,12/3/2025,4.8,PT Prasetya (Persero) Tbk,Bengkulu
+519,Sambal Sambal Teri 251ml,Sambal Tomat,40426,25,7/15/2025,12/3/2025,4.5,CV Damanik,Tarakan
+520,Sambal Sambal Tomat 284ml,Sambal Cumi,37918,378,7/15/2025,12/11/2025,2.7,Perum Kuswandari,Pekalongan
+521,Sambal Sambal Terasi 170ml,Sambal Ijo,31539,183,7/15/2025,5/25/2026,4.9,PD Utama,Purwokerto
+522,Sambel Sambal Bawang 290ml,Sambal Cumi,21984,58,7/15/2025,5/6/2026,3.5,CV Maheswara Saputra,Kota Administrasi Jakarta Barat
+523,Sambel Sambal Tomat 297ml,Sambal Teri,62422,215,7/15/2025,1/6/2026,2.8,PT Simbolon Tbk,Madiun
+524,Sambal Sambal Ijo 153ml,Sambal Roa,69718,302,7/15/2025,6/17/2026,4.5,CV Mahendra Tbk,Sungai Penuh
+525,Sambel Sambal Ijo 412ml,Sambal Roa,61063,183,7/15/2025,10/27/2025,4.7,UD Wahyudin Nainggolan,Parepare
+526,Sambal Sambal Teri 349ml,Sambal Bawang,68169,210,7/15/2025,5/26/2026,2.6,PD Suryono Hasanah,Langsa
+527,Sambel Sambal Cumi 106ml,Sambal Matah,74087,489,7/15/2025,4/4/2026,3.8,PD Usamah Nurdiyanti,Palopo
+528,Sambal Sambal Roa 438ml,Sambal Matah,41583,177,7/15/2025,4/28/2026,2.9,Perum Purwanti Wasita,Blitar
+529,Sambal Sambal Terasi 429ml,Sambal Ijo,43132,434,7/15/2025,6/10/2026,4.6,CV Suryono Melani Tbk,Balikpapan
+530,Sambal Sambal Bawang 484ml,Sambal Teri,31013,123,7/15/2025,3/31/2026,4.9,PT Mulyani Tbk,Sibolga
+531,Sambal Sambal Matah 381ml,Sambal Roa,36429,418,7/15/2025,2/10/2026,2.7,PT Sihombing Tbk,Medan
+532,Sambel Sambal Teri 145ml,Sambal Teri,39299,161,7/15/2025,12/12/2025,5,PD Farida (Persero) Tbk,Purwokerto
+533,Sambal Sambal Bawang 306ml,Sambal Roa,12348,285,7/15/2025,10/13/2025,4.6,PD Haryanto Maryati Tbk,Kendari
+534,Sambel Sambal Matah 435ml,Sambal Teri,72282,174,7/15/2025,4/17/2026,4.6,Perum Salahudin Wacana,Jayapura
+535,Sambal Sambal Teri 269ml,Sambal Teri,56966,336,7/15/2025,4/17/2026,4.3,CV Najmudin Gunawan (Persero) Tbk,Lubuklinggau
+536,Sambal Sambal Bawang 488ml,Sambal Matah,10143,174,7/15/2025,4/12/2026,4.6,Perum Thamrin,Banjar
+537,Sambel Sambal Cumi 459ml,Sambal Bawang,13000,459,7/15/2025,1/5/2026,3.7,PT Irawan Pranowo Tbk,Denpasar
+538,Sambel Sambal Bawang 230ml,Sambal Matah,22290,61,7/15/2025,5/2/2026,3,PD Pratama,Prabumulih
+539,Sambal Sambal Cumi 155ml,Sambal Roa,13047,474,7/15/2025,12/15/2025,4.4,UD Simanjuntak Sirait Tbk,Singkawang
+540,Sambel Sambal Teri 437ml,Sambal Ijo,73167,255,7/15/2025,10/15/2025,3.8,PT Putra (Persero) Tbk,Pagaralam
+541,Sambal Sambal Roa 399ml,Sambal Teri,70579,260,7/15/2025,1/11/2026,4.2,PT Saragih Gunawan,Palembang
+542,Sambal Sambal Ijo 153ml,Sambal Roa,53091,307,7/15/2025,3/26/2026,3.8,PD Salahudin Anggriawan (Persero) Tbk,Salatiga
+543,Sambel Sambal Roa 411ml,Sambal Matah,27930,203,7/15/2025,4/6/2026,4.9,Perum Tarihoran Nasyidah Tbk,Pariaman
+544,Sambel Sambal Ijo 170ml,Sambal Roa,49487,358,7/15/2025,7/2/2026,3.2,Perum Mulyani Maryati,Sawahlunto
+545,Sambel Sambal Matah 202ml,Sambal Matah,50905,365,7/15/2025,3/10/2026,4.2,Perum Prasetyo Tbk,Dumai
+546,Sambal Sambal Ijo 357ml,Sambal Cumi,56553,59,7/15/2025,4/11/2026,3.9,UD Nashiruddin,Bima
+547,Sambel Sambal Tomat 316ml,Sambal Terasi,44257,54,7/15/2025,10/25/2025,3.5,PD Pratiwi,Palopo
+548,Sambal Sambal Terasi 202ml,Sambal Tomat,59164,402,7/15/2025,1/3/2026,5,UD Purnawati,Kediri
+549,Sambel Sambal Ijo 131ml,Sambal Tomat,23369,385,7/15/2025,10/29/2025,3.4,Perum Latupono Wahyuni,Probolinggo
+550,Sambel Sambal Bawang 415ml,Sambal Matah,58654,331,7/15/2025,4/30/2026,3.1,PD Suryono Anggraini,Banjarmasin
+551,Sambel Sambal Terasi 295ml,Sambal Roa,37300,489,7/15/2025,3/22/2026,4.9,PT Halim Wastuti Tbk,Malang
+552,Sambal Sambal Terasi 480ml,Sambal Tomat,23309,317,7/15/2025,5/27/2026,4.6,CV Latupono (Persero) Tbk,Solok
+553,Sambel Sambal Matah 497ml,Sambal Matah,29279,229,7/15/2025,1/11/2026,5,Perum Yulianti Prakasa,Bukittinggi
+554,Sambal Sambal Ijo 188ml,Sambal Bawang,34720,20,7/15/2025,5/20/2026,3.2,CV Yulianti,Tangerang
+555,Sambel Sambal Ijo 182ml,Sambal Tomat,10369,169,7/15/2025,6/8/2026,4.3,CV Budiman,Langsa
+556,Sambal Sambal Terasi 178ml,Sambal Cumi,49117,26,7/15/2025,3/16/2026,3.7,PT Saputra Hariyah (Persero) Tbk,Probolinggo
+557,Sambel Sambal Bawang 462ml,Sambal Cumi,44432,112,7/15/2025,1/15/2026,3.8,Perum Prayoga,Palembang
+558,Sambal Sambal Roa 378ml,Sambal Roa,16025,178,7/15/2025,2/3/2026,4.7,CV Melani Tbk,Meulaboh
+559,Sambel Sambal Cumi 284ml,Sambal Tomat,24316,486,7/15/2025,7/11/2026,3.7,Perum Utami Sihombing,Banjarmasin
+560,Sambal Sambal Bawang 442ml,Sambal Cumi,39207,123,7/15/2025,2/14/2026,4.9,CV Utama Situmorang,Parepare
+561,Sambel Sambal Roa 158ml,Sambal Roa,26815,276,7/15/2025,3/6/2026,2.6,PT Wijaya Anggraini (Persero) Tbk,Yogyakarta
+562,Sambel Sambal Teri 349ml,Sambal Terasi,29427,459,7/15/2025,1/19/2026,3.3,PT Iswahyudi Zulaika (Persero) Tbk,Makassar
+563,Sambal Sambal Bawang 185ml,Sambal Terasi,51086,33,7/15/2025,1/28/2026,4.2,Perum Kurniawan,Langsa
+564,Sambal Sambal Roa 153ml,Sambal Matah,45242,424,7/15/2025,5/23/2026,4.1,UD Wijayanti (Persero) Tbk,Yogyakarta
+565,Sambal Sambal Ijo 112ml,Sambal Teri,56980,169,7/15/2025,11/1/2025,2.7,PD Hassanah Tbk,Prabumulih
+566,Sambal Sambal Ijo 228ml,Sambal Bawang,47680,420,7/15/2025,2/6/2026,4.8,Perum Usamah Nuraini Tbk,Kota Administrasi Jakarta Pusat
+567,Sambel Sambal Roa 330ml,Sambal Roa,38378,161,7/15/2025,10/21/2025,3.5,UD Budiman Wijaya (Persero) Tbk,Kendari
+568,Sambal Sambal Terasi 428ml,Sambal Bawang,59542,381,7/15/2025,11/5/2025,4.3,PD Mayasari Tbk,Banjarbaru
+569,Sambal Sambal Cumi 357ml,Sambal Bawang,28994,402,7/15/2025,3/16/2026,4,PD Hutasoit Yolanda (Persero) Tbk,Sungai Penuh
+570,Sambel Sambal Teri 295ml,Sambal Roa,63878,338,7/15/2025,10/28/2025,3.7,PT Irawan Hutasoit (Persero) Tbk,Bandar Lampung
+571,Sambal Sambal Ijo 482ml,Sambal Roa,62217,408,7/15/2025,3/13/2026,4.9,UD Saptono Maheswara (Persero) Tbk,Palu
+572,Sambal Sambal Tomat 446ml,Sambal Cumi,72743,486,7/15/2025,10/18/2025,3.9,CV Prayoga Thamrin Tbk,Ambon
+573,Sambal Sambal Bawang 121ml,Sambal Terasi,47533,305,7/15/2025,5/2/2026,3.8,UD Suryono Hutasoit Tbk,Lhokseumawe
+574,Sambal Sambal Tomat 207ml,Sambal Cumi,23876,211,7/15/2025,7/2/2026,2.9,UD Widiastuti,Pagaralam
+575,Sambal Sambal Matah 415ml,Sambal Tomat,22735,58,7/15/2025,1/13/2026,4.2,PD Hutasoit Tbk,Pekalongan
+576,Sambal Sambal Teri 430ml,Sambal Bawang,29048,343,7/15/2025,11/16/2025,3.1,PD Hastuti Gunarto,Manado
+577,Sambal Sambal Teri 269ml,Sambal Cumi,18402,343,7/15/2025,2/10/2026,2.8,CV Mandasari,Batu
+578,Sambal Sambal Matah 262ml,Sambal Teri,39533,168,7/15/2025,3/18/2026,4.2,PT Farida (Persero) Tbk,Parepare
+579,Sambal Sambal Cumi 261ml,Sambal Roa,21051,2,7/15/2025,3/22/2026,3.1,PT Zulaika,Solok
+580,Sambal Sambal Roa 241ml,Sambal Cumi,18801,347,7/15/2025,3/31/2026,4.7,Perum Ardianto (Persero) Tbk,Kediri
+581,Sambel Sambal Teri 283ml,Sambal Tomat,41914,282,7/15/2025,12/7/2025,2.9,PD Wacana,Pekanbaru
+582,Sambal Sambal Tomat 171ml,Sambal Matah,27251,375,7/15/2025,11/21/2025,4.3,PT Sudiati (Persero) Tbk,Kota Administrasi Jakarta Selatan
+583,Sambal Sambal Terasi 397ml,Sambal Roa,60410,302,7/15/2025,1/29/2026,4.8,CV Safitri Hartati Tbk,Lubuklinggau
+584,Sambel Sambal Teri 434ml,Sambal Ijo,33974,200,7/15/2025,2/4/2026,4.7,UD Novitasari Maulana,Samarinda
+585,Sambel Sambal Ijo 337ml,Sambal Bawang,36003,186,7/15/2025,6/27/2026,2.5,PD Saputra Mandasari Tbk,Cilegon
+586,Sambal Sambal Ijo 487ml,Sambal Ijo,39243,81,7/15/2025,1/12/2026,3.9,PT Wibowo Mangunsong Tbk,Bandar Lampung
+587,Sambal Sambal Teri 283ml,Sambal Terasi,24340,389,7/15/2025,6/19/2026,3.1,CV Nasyiah Laksita Tbk,Madiun
+588,Sambel Sambal Cumi 219ml,Sambal Terasi,53816,105,7/15/2025,7/5/2026,4.8,Perum Saputra Tbk,Surabaya
+589,Sambel Sambal Roa 340ml,Sambal Teri,67773,23,7/15/2025,11/2/2025,5,PT Pratama Hardiansyah,Batam
+590,Sambel Sambal Bawang 460ml,Sambal Tomat,64714,379,7/15/2025,2/24/2026,3.9,PD Uyainah Tbk,Surakarta
+591,Sambal Sambal Roa 434ml,Sambal Roa,33940,300,7/15/2025,11/21/2025,3.8,CV Zulkarnain,Tomohon
+592,Sambel Sambal Matah 364ml,Sambal Roa,33127,418,7/15/2025,4/7/2026,3.7,PD Kusmawati Suryono,Bekasi
+593,Sambel Sambal Terasi 356ml,Sambal Ijo,38829,84,7/15/2025,2/7/2026,2.7,CV Laksmiwati Irawan,Bima
+594,Sambel Sambal Matah 176ml,Sambal Ijo,20312,185,7/15/2025,12/12/2025,4.2,PD Uyainah,Bau-Bau
+595,Sambel Sambal Cumi 468ml,Sambal Bawang,41556,345,7/15/2025,6/15/2026,3.7,PT Zulaika Anggraini,Cirebon
+596,Sambal Sambal Roa 111ml,Sambal Matah,12827,65,7/15/2025,1/3/2026,2.8,UD Damanik,Sawahlunto
+597,Sambal Sambal Ijo 128ml,Sambal Ijo,26925,472,7/15/2025,1/13/2026,3.8,Perum Usada Nainggolan,Bengkulu
+598,Sambel Sambal Terasi 468ml,Sambal Tomat,72079,43,7/15/2025,1/31/2026,3.6,Perum Samosir,Sungai Penuh
+599,Sambel Sambal Teri 187ml,Sambal Matah,64418,210,7/15/2025,12/25/2025,4.5,CV Sitompul Tbk,Sibolga
+600,Sambal Sambal Tomat 185ml,Sambal Cumi,70447,232,7/15/2025,11/17/2025,3.1,CV Prasetya (Persero) Tbk,Samarinda
+601,Sambel Sambal Ijo 155ml,Sambal Terasi,23261,267,7/15/2025,6/28/2026,4.2,UD Zulkarnain Tbk,Kota Administrasi Jakarta Pusat
+602,Sambal Sambal Bawang 190ml,Sambal Teri,69087,314,7/15/2025,11/1/2025,4.7,UD Tampubolon Hartati,Makassar
+603,Sambal Sambal Bawang 346ml,Sambal Ijo,69112,308,7/15/2025,10/13/2025,4.7,PT Latupono Gunawan (Persero) Tbk,Lhokseumawe
+604,Sambel Sambal Roa 289ml,Sambal Terasi,55720,271,7/15/2025,5/20/2026,3.1,PT Putra Lazuardi,Sawahlunto
+605,Sambel Sambal Roa 279ml,Sambal Bawang,37884,68,7/15/2025,2/20/2026,3.7,PD Lazuardi Mayasari,Makassar
+606,Sambal Sambal Bawang 245ml,Sambal Roa,26895,96,7/15/2025,10/15/2025,4.3,PD Nasyidah Mandasari Tbk,Ambon
+607,Sambal Sambal Bawang 366ml,Sambal Terasi,34577,335,7/15/2025,1/26/2026,4.2,CV Prakasa (Persero) Tbk,Cilegon
+608,Sambel Sambal Roa 285ml,Sambal Bawang,20143,218,7/15/2025,2/19/2026,3.2,CV Halim Maryati,Kediri
+609,Sambel Sambal Cumi 413ml,Sambal Tomat,74998,348,7/15/2025,5/4/2026,4.4,PT Habibi Rajasa,Manado
+610,Sambel Sambal Teri 191ml,Sambal Cumi,46640,284,7/15/2025,6/17/2026,3.1,CV Andriani (Persero) Tbk,Semarang
+611,Sambel Sambal Cumi 496ml,Sambal Roa,58220,70,7/15/2025,12/12/2025,4.4,PT Melani,Bau-Bau
+612,Sambel Sambal Ijo 151ml,Sambal Matah,43314,205,7/15/2025,4/4/2026,4.5,CV Mayasari Purnawati,Blitar
+613,Sambal Sambal Ijo 299ml,Sambal Terasi,62715,46,7/15/2025,12/26/2025,3.7,CV Mardhiyah Wahyudin (Persero) Tbk,Dumai
+614,Sambel Sambal Bawang 132ml,Sambal Tomat,24533,189,7/15/2025,11/22/2025,4,PT Puspasari Lazuardi,Batu
+615,Sambel Sambal Roa 414ml,Sambal Tomat,56635,493,7/15/2025,11/11/2025,4.9,PD Saragih (Persero) Tbk,Bukittinggi
+616,Sambal Sambal Teri 324ml,Sambal Terasi,23219,435,7/15/2025,7/5/2026,3.2,Perum Hastuti Tbk,Jambi
+617,Sambal Sambal Matah 414ml,Sambal Ijo,54172,18,7/15/2025,4/15/2026,3.1,Perum Padmasari Tbk,Prabumulih
+618,Sambal Sambal Ijo 144ml,Sambal Tomat,61096,204,7/15/2025,4/11/2026,4.2,CV Manullang Marbun Tbk,Sibolga
+619,Sambel Sambal Matah 365ml,Sambal Terasi,58295,360,7/15/2025,11/17/2025,4.8,CV Situmorang Tbk,Metro
+620,Sambel Sambal Cumi 277ml,Sambal Tomat,24830,310,7/15/2025,1/20/2026,3.6,Perum Andriani Sihombing (Persero) Tbk,Cilegon
+621,Sambel Sambal Terasi 233ml,Sambal Ijo,36681,259,7/15/2025,12/6/2025,3.9,CV Iswahyudi Suryono,Tangerang Selatan
+622,Sambel Sambal Cumi 159ml,Sambal Tomat,67416,275,7/15/2025,2/18/2026,4.2,CV Palastri Tbk,Pariaman
+623,Sambel Sambal Teri 494ml,Sambal Matah,59641,173,7/15/2025,6/4/2026,4.2,PD Hastuti Winarno (Persero) Tbk,Pagaralam
+624,Sambal Sambal Teri 159ml,Sambal Tomat,14427,195,7/15/2025,2/2/2026,4.2,CV Yuliarti Nainggolan Tbk,Binjai
+625,Sambal Sambal Cumi 311ml,Sambal Cumi,43849,274,7/15/2025,10/17/2025,4.3,UD Maryadi Kusumo Tbk,Bukittinggi
+626,Sambel Sambal Matah 247ml,Sambal Bawang,36144,344,7/15/2025,4/6/2026,2.7,CV Suryono Wulandari,Tidore Kepulauan
+627,Sambal Sambal Teri 260ml,Sambal Cumi,24323,457,7/15/2025,2/27/2026,3,Perum Thamrin,Tasikmalaya
+628,Sambal Sambal Teri 477ml,Sambal Matah,25391,376,7/15/2025,2/13/2026,4.7,Perum Saefullah Novitasari,Ambon
+629,Sambal Sambal Matah 203ml,Sambal Matah,64810,316,7/15/2025,4/13/2026,2.9,UD Situmorang,Denpasar
+630,Sambal Sambal Bawang 140ml,Sambal Teri,50227,3,7/15/2025,11/3/2025,4.6,PT Mulyani Yuliarti (Persero) Tbk,Meulaboh
+631,Sambel Sambal Cumi 352ml,Sambal Tomat,42165,93,7/15/2025,7/1/2026,3.2,PD Putra Wibowo (Persero) Tbk,Batu
+632,Sambal Sambal Ijo 127ml,Sambal Roa,41347,481,7/15/2025,10/29/2025,3.8,CV Mansur Uwais Tbk,Medan
+633,Sambel Sambal Ijo 334ml,Sambal Bawang,55760,265,7/15/2025,6/5/2026,3.3,PT Rahmawati Astuti,Tual
+634,Sambal Sambal Terasi 445ml,Sambal Matah,34866,297,7/15/2025,12/3/2025,3.3,Perum Utami Wasita,Cirebon
+635,Sambel Sambal Ijo 380ml,Sambal Tomat,25541,137,7/15/2025,6/11/2026,4.9,PD Ardianto Mansur,Tebingtinggi
+636,Sambel Sambal Cumi 194ml,Sambal Teri,37783,107,7/15/2025,5/15/2026,4.3,Perum Purnawati Permadi,Bitung
+637,Sambel Sambal Cumi 305ml,Sambal Tomat,39538,92,7/15/2025,12/19/2025,4.9,PD Sinaga Pranowo Tbk,Kediri
+638,Sambal Sambal Bawang 469ml,Sambal Tomat,62696,120,7/15/2025,5/22/2026,4.6,PT Pratama Hariyah (Persero) Tbk,Palangkaraya
+639,Sambal Sambal Ijo 478ml,Sambal Ijo,40997,412,7/15/2025,10/17/2025,2.9,UD Anggraini,Batam
+640,Sambel Sambal Ijo 422ml,Sambal Cumi,61467,249,7/15/2025,3/15/2026,3.1,PD Riyanti Tbk,Manado
+641,Sambal Sambal Roa 150ml,Sambal Ijo,13934,110,7/15/2025,2/20/2026,3.7,CV Nugroho Prastuti Tbk,Pekanbaru
+642,Sambal Sambal Teri 481ml,Sambal Cumi,27024,184,7/15/2025,4/15/2026,3.9,CV Situmorang Tbk,Manado
+643,Sambel Sambal Cumi 110ml,Sambal Roa,17945,179,7/15/2025,1/22/2026,3.9,CV Rahayu,Kota Administrasi Jakarta Barat
+644,Sambal Sambal Tomat 281ml,Sambal Cumi,54118,261,7/15/2025,6/19/2026,4.4,Perum Hassanah Pradipta,Prabumulih
+645,Sambel Sambal Bawang 295ml,Sambal Tomat,40392,323,7/15/2025,12/26/2025,4.7,CV Saefullah Samosir,Bontang
+646,Sambel Sambal Roa 423ml,Sambal Roa,65633,464,7/15/2025,11/18/2025,2.7,PD Lestari Wulandari Tbk,Solok
+647,Sambel Sambal Matah 260ml,Sambal Cumi,52795,149,7/15/2025,2/26/2026,4,CV Simanjuntak Nashiruddin,Subulussalam
+648,Sambel Sambal Tomat 327ml,Sambal Cumi,59014,300,7/15/2025,7/6/2026,4.9,PD Wahyuni Tbk,Payakumbuh
+649,Sambel Sambal Ijo 194ml,Sambal Terasi,18194,372,7/15/2025,2/10/2026,4.2,Perum Marbun (Persero) Tbk,Pagaralam
+650,Sambal Sambal Matah 185ml,Sambal Roa,16750,48,7/15/2025,11/14/2025,4.8,PT Safitri Wastuti Tbk,Sawahlunto
+651,Sambel Sambal Terasi 113ml,Sambal Roa,44339,391,7/15/2025,11/24/2025,2.8,Perum Hardiansyah Mayasari Tbk,Kediri
+652,Sambal Sambal Bawang 435ml,Sambal Roa,30274,117,7/15/2025,2/16/2026,4.3,PD Anggraini Waskita,Tanjungpinang
+653,Sambel Sambal Ijo 167ml,Sambal Ijo,11872,17,7/15/2025,4/13/2026,4.7,PT Tarihoran Setiawan,Tangerang
+654,Sambel Sambal Teri 339ml,Sambal Tomat,45949,227,7/15/2025,12/21/2025,4.9,UD Aryani,Pekanbaru
+655,Sambal Sambal Teri 423ml,Sambal Roa,44305,327,7/15/2025,7/13/2026,3.3,Perum Wahyuni Oktaviani,Banjarmasin
+656,Sambel Sambal Teri 376ml,Sambal Matah,62737,45,7/15/2025,5/27/2026,3.3,Perum Namaga Tbk,Malang
+657,Sambel Sambal Tomat 179ml,Sambal Tomat,10691,0,7/15/2025,7/7/2026,4.5,PT Wijaya,Jambi
+658,Sambal Sambal Cumi 246ml,Sambal Teri,45068,4,7/15/2025,6/21/2026,4.9,PD Waluyo,Bengkulu
+659,Sambel Sambal Tomat 104ml,Sambal Roa,62295,149,7/15/2025,2/8/2026,4.5,CV Utama Prasasta (Persero) Tbk,Tanjungpinang
+660,Sambel Sambal Matah 310ml,Sambal Roa,35870,127,7/15/2025,1/4/2026,4.3,Perum Utami Lazuardi (Persero) Tbk,Pasuruan
+661,Sambel Sambal Roa 212ml,Sambal Tomat,15191,216,7/15/2025,2/12/2026,3.8,PD Dabukke Tbk,Kupang
+662,Sambel Sambal Tomat 432ml,Sambal Tomat,37060,96,7/15/2025,11/17/2025,3,Perum Prakasa (Persero) Tbk,Bontang
+663,Sambel Sambal Bawang 426ml,Sambal Teri,50483,231,7/15/2025,3/1/2026,4.3,CV Waskita Firmansyah Tbk,Pematangsiantar
+664,Sambel Sambal Matah 264ml,Sambal Terasi,19971,25,7/15/2025,7/13/2026,2.6,UD Kusmawati Nuraini,Ambon
+665,Sambal Sambal Tomat 237ml,Sambal Ijo,56871,224,7/15/2025,10/17/2025,3.1,UD Salahudin Tarihoran,Bontang
+666,Sambal Sambal Terasi 352ml,Sambal Matah,32407,215,7/15/2025,3/21/2026,4.5,Perum Kurniawan Gunawan Tbk,Surabaya
+667,Sambel Sambal Cumi 337ml,Sambal Terasi,31643,41,7/15/2025,12/26/2025,2.6,CV Hidayat Purwanti,Sukabumi
+668,Sambel Sambal Bawang 378ml,Sambal Teri,21901,98,7/15/2025,2/18/2026,4.5,PD Mulyani (Persero) Tbk,Mataram
+669,Sambal Sambal Bawang 493ml,Sambal Matah,35218,394,7/15/2025,5/27/2026,3.1,CV Sihombing,Denpasar
+670,Sambal Sambal Matah 335ml,Sambal Bawang,44153,340,7/15/2025,1/27/2026,3.7,PD Rahimah Nuraini Tbk,Kupang
+671,Sambel Sambal Cumi 181ml,Sambal Terasi,58806,479,7/15/2025,7/6/2026,2.8,Perum Nababan (Persero) Tbk,Bengkulu
+672,Sambel Sambal Tomat 201ml,Sambal Cumi,68164,26,7/15/2025,2/1/2026,4.9,PD Mangunsong Tbk,Medan
+673,Sambal Sambal Roa 266ml,Sambal Terasi,20968,406,7/15/2025,3/3/2026,4,PT Fujiati Saefullah,Mataram
+674,Sambel Sambal Matah 104ml,Sambal Terasi,48081,401,7/15/2025,6/13/2026,4.2,Perum Damanik Nainggolan,Tasikmalaya
+675,Sambal Sambal Cumi 494ml,Sambal Bawang,26300,80,7/15/2025,6/25/2026,2.7,CV Prastuti Simbolon,Pagaralam
+676,Sambel Sambal Terasi 130ml,Sambal Cumi,52242,78,7/15/2025,7/14/2026,4.5,PT Winarno,Kota Administrasi Jakarta Barat
+677,Sambal Sambal Teri 219ml,Sambal Cumi,74335,285,7/15/2025,4/8/2026,4.5,PD Adriansyah Tbk,Pariaman
+678,Sambel Sambal Matah 110ml,Sambal Roa,33472,370,7/15/2025,12/20/2025,3.1,Perum Aryani,Tasikmalaya
+679,Sambal Sambal Teri 461ml,Sambal Teri,46636,150,7/15/2025,6/20/2026,3,Perum Ramadan Maheswara (Persero) Tbk,Dumai
+680,Sambal Sambal Cumi 265ml,Sambal Teri,28043,444,7/15/2025,1/3/2026,2.7,PT Puspasari,Kota Administrasi Jakarta Pusat
+681,Sambal Sambal Teri 251ml,Sambal Tomat,45494,187,7/15/2025,6/2/2026,2.5,Perum Hutagalung,Balikpapan
+682,Sambel Sambal Ijo 109ml,Sambal Cumi,60857,317,7/15/2025,2/12/2026,3.3,PD Rajata Nainggolan (Persero) Tbk,Singkawang
+683,Sambal Sambal Roa 197ml,Sambal Teri,60183,282,7/15/2025,12/30/2025,4,PD Hariyah,Kupang
+684,Sambel Sambal Roa 428ml,Sambal Cumi,17239,49,7/15/2025,7/7/2026,4.1,Perum Laksmiwati (Persero) Tbk,Manado
+685,Sambal Sambal Ijo 191ml,Sambal Terasi,23243,54,7/15/2025,6/18/2026,3,Perum Oktaviani Tbk,Kediri
+686,Sambal Sambal Roa 436ml,Sambal Teri,44460,319,7/15/2025,2/21/2026,2.6,PT Sihombing,Purwokerto
+687,Sambal Sambal Bawang 106ml,Sambal Matah,52975,251,7/15/2025,11/22/2025,3.7,CV Megantara Maryadi,Cilegon
+688,Sambal Sambal Cumi 385ml,Sambal Roa,63872,188,7/15/2025,11/11/2025,4.6,PD Saptono,Tegal
+689,Sambel Sambal Terasi 475ml,Sambal Bawang,64686,155,7/15/2025,11/21/2025,4.9,PT Palastri,Pekanbaru
+690,Sambal Sambal Bawang 471ml,Sambal Matah,44842,197,7/15/2025,1/18/2026,3,CV Siregar Kusumo,Samarinda
+691,Sambal Sambal Ijo 385ml,Sambal Roa,58896,54,7/15/2025,4/14/2026,4.2,UD Oktaviani,Pangkalpinang
+692,Sambel Sambal Bawang 185ml,Sambal Ijo,46042,205,7/15/2025,6/28/2026,3.3,Perum Santoso Pertiwi,Depok
+693,Sambal Sambal Teri 280ml,Sambal Cumi,46050,166,7/15/2025,4/21/2026,3.5,Perum Wahyudin,Pekalongan
+694,Sambel Sambal Cumi 411ml,Sambal Matah,46906,279,7/15/2025,1/30/2026,3.4,PT Yuliarti Budiman,Kota Administrasi Jakarta Utara
+695,Sambel Sambal Cumi 331ml,Sambal Teri,72903,203,7/15/2025,10/13/2025,4.3,PT Mangunsong (Persero) Tbk,Bandar Lampung
+696,Sambel Sambal Terasi 365ml,Sambal Ijo,68348,154,7/15/2025,10/16/2025,3.3,CV Haryanto Saefullah,Malang
+697,Sambal Sambal Matah 261ml,Sambal Terasi,60562,420,7/15/2025,3/3/2026,4.8,PD Riyanti (Persero) Tbk,Sabang
+698,Sambal Sambal Bawang 119ml,Sambal Teri,33308,79,7/15/2025,12/22/2025,3.2,PT Purnawati Wibisono (Persero) Tbk,Bogor
+699,Sambal Sambal Matah 231ml,Sambal Tomat,16023,292,7/15/2025,5/5/2026,3.9,UD Maryadi Firmansyah (Persero) Tbk,Sorong
+700,Sambal Sambal Bawang 470ml,Sambal Cumi,61963,247,7/15/2025,1/9/2026,3.7,UD Latupono (Persero) Tbk,Tebingtinggi
+701,Sambal Sambal Tomat 119ml,Sambal Roa,15143,399,7/15/2025,11/10/2025,4.8,PD Rajata Tbk,Pekanbaru
+702,Sambel Sambal Cumi 322ml,Sambal Roa,70964,444,7/15/2025,12/13/2025,4.7,PD Hariyah Nuraini (Persero) Tbk,Sabang
+703,Sambal Sambal Terasi 424ml,Sambal Roa,13547,156,7/15/2025,7/8/2026,2.6,CV Saragih Haryanto Tbk,Kupang
+704,Sambal Sambal Cumi 357ml,Sambal Matah,20039,25,7/15/2025,5/2/2026,4.9,PT Maheswara Suartini,Tangerang
+705,Sambal Sambal Matah 321ml,Sambal Tomat,61535,201,7/15/2025,12/27/2025,2.8,PD Hidayat Tbk,Ambon
+706,Sambal Sambal Teri 392ml,Sambal Terasi,45923,204,7/15/2025,2/24/2026,2.7,PT Santoso Wijayanti,Lhokseumawe
+707,Sambel Sambal Ijo 490ml,Sambal Ijo,41517,286,7/15/2025,1/22/2026,3.7,PT Winarsih (Persero) Tbk,Prabumulih
+708,Sambal Sambal Matah 224ml,Sambal Bawang,27449,397,7/15/2025,5/21/2026,3.3,Perum Hidayanto Habibi,Pontianak
+709,Sambal Sambal Bawang 443ml,Sambal Roa,37757,187,7/15/2025,4/9/2026,3,Perum Mustofa Jailani,Pematangsiantar
+710,Sambel Sambal Terasi 494ml,Sambal Tomat,21092,179,7/15/2025,5/27/2026,4.1,UD Rahayu Melani (Persero) Tbk,Sabang
+711,Sambel Sambal Terasi 219ml,Sambal Matah,54915,191,7/15/2025,12/31/2025,4.4,Perum Sitorus (Persero) Tbk,Bogor
+712,Sambal Sambal Bawang 478ml,Sambal Terasi,25928,485,7/15/2025,12/27/2025,4.7,CV Yolanda Novitasari (Persero) Tbk,Balikpapan
+713,Sambel Sambal Terasi 275ml,Sambal Bawang,29996,230,7/15/2025,6/11/2026,2.6,PT Maulana,Singkawang
+714,Sambal Sambal Matah 204ml,Sambal Tomat,45966,247,7/15/2025,12/24/2025,4.2,PT Nasyiah Simanjuntak,Sawahlunto
+715,Sambal Sambal Roa 398ml,Sambal Terasi,26741,87,7/15/2025,11/12/2025,3.2,PD Halim (Persero) Tbk,Jayapura
+716,Sambel Sambal Terasi 338ml,Sambal Terasi,14364,198,7/15/2025,2/28/2026,4.2,PT Puspita Wijayanti (Persero) Tbk,Sukabumi
+717,Sambel Sambal Bawang 109ml,Sambal Tomat,66846,452,7/15/2025,4/28/2026,3.1,CV Namaga (Persero) Tbk,Tegal
+718,Sambel Sambal Bawang 261ml,Sambal Teri,66804,305,7/15/2025,7/12/2026,2.7,CV Hariyah Maulana Tbk,Sukabumi
+719,Sambal Sambal Teri 387ml,Sambal Terasi,12605,126,7/15/2025,7/11/2026,3.3,PT Wasita Mangunsong Tbk,Mataram
+720,Sambel Sambal Roa 481ml,Sambal Ijo,11204,177,7/15/2025,4/11/2026,3.4,CV Utami Najmudin Tbk,Purwokerto
+721,Sambel Sambal Matah 356ml,Sambal Tomat,63208,31,7/15/2025,2/21/2026,4.7,Perum Hidayat Samosir (Persero) Tbk,Salatiga
+722,Sambal Sambal Tomat 215ml,Sambal Ijo,32399,459,7/15/2025,5/2/2026,4.1,PT Latupono Pertiwi,Pariaman
+723,Sambal Sambal Roa 366ml,Sambal Matah,37350,123,7/15/2025,12/30/2025,3.6,PD Prayoga,Surakarta
+724,Sambel Sambal Cumi 329ml,Sambal Ijo,23550,334,7/15/2025,12/22/2025,4,PT Sinaga Wasita Tbk,Lhokseumawe
+725,Sambal Sambal Ijo 258ml,Sambal Ijo,38184,465,7/15/2025,12/26/2025,4.1,UD Utama Handayani (Persero) Tbk,Metro
+726,Sambal Sambal Cumi 134ml,Sambal Bawang,22067,162,7/15/2025,12/26/2025,4.3,Perum Irawan Utami Tbk,Surabaya
+727,Sambel Sambal Roa 310ml,Sambal Tomat,39032,381,7/15/2025,3/2/2026,2.9,Perum Wastuti Prabowo Tbk,Padang Sidempuan
+728,Sambal Sambal Bawang 167ml,Sambal Ijo,11716,390,7/15/2025,2/26/2026,4,PD Narpati Yolanda (Persero) Tbk,Prabumulih
+729,Sambal Sambal Matah 218ml,Sambal Terasi,33544,40,7/15/2025,6/14/2026,2.8,Perum Pudjiastuti,Bontang
+730,Sambel Sambal Cumi 194ml,Sambal Roa,42207,242,7/15/2025,12/22/2025,2.9,CV Haryanto Gunawan (Persero) Tbk,Palu
+731,Sambal Sambal Terasi 309ml,Sambal Terasi,70649,138,7/15/2025,5/12/2026,3.1,PD Hardiansyah Suwarno,Banjarmasin
+732,Sambal Sambal Matah 133ml,Sambal Ijo,70758,488,7/15/2025,5/25/2026,4.7,PD Hariyah,Semarang
+733,Sambel Sambal Cumi 334ml,Sambal Matah,38020,207,7/15/2025,11/3/2025,4,CV Rajata Mahendra (Persero) Tbk,Denpasar
+734,Sambel Sambal Cumi 301ml,Sambal Terasi,44121,55,7/15/2025,6/1/2026,3.6,PT Hutagalung Prasetyo (Persero) Tbk,Surakarta
+735,Sambal Sambal Matah 365ml,Sambal Roa,74476,376,7/15/2025,11/2/2025,3.9,PT Susanti,Sabang
+736,Sambal Sambal Matah 249ml,Sambal Teri,36085,452,7/15/2025,3/17/2026,4.4,PT Suryatmi (Persero) Tbk,Yogyakarta
+737,Sambel Sambal Teri 185ml,Sambal Roa,29295,313,7/15/2025,11/9/2025,4.2,PD Oktaviani Hutapea,Sorong
+738,Sambal Sambal Teri 430ml,Sambal Teri,15927,369,7/15/2025,6/26/2026,2.8,UD Ramadan Mardhiyah (Persero) Tbk,Pariaman
+739,Sambal Sambal Roa 311ml,Sambal Cumi,39549,12,7/15/2025,1/12/2026,3.6,PD Farida Fujiati (Persero) Tbk,Malang
+740,Sambal Sambal Teri 146ml,Sambal Tomat,31238,354,7/15/2025,1/4/2026,4.3,PD Hutasoit Wulandari,Batam
+741,Sambal Sambal Bawang 158ml,Sambal Teri,51554,185,7/15/2025,11/25/2025,3.8,UD Maryati,Subulussalam
+742,Sambel Sambal Ijo 293ml,Sambal Roa,12877,393,7/15/2025,1/8/2026,4.8,UD Dongoran Prastuti,Bau-Bau
+743,Sambal Sambal Ijo 174ml,Sambal Ijo,60407,364,7/15/2025,11/8/2025,3.5,Perum Saragih Pradipta Tbk,Lhokseumawe
+744,Sambel Sambal Teri 247ml,Sambal Ijo,17704,460,7/15/2025,12/19/2025,4.9,UD Setiawan Zulkarnain Tbk,Kediri
+745,Sambal Sambal Tomat 106ml,Sambal Teri,42612,437,7/15/2025,6/25/2026,3.9,PD Hakim Habibi,Probolinggo
+746,Sambal Sambal Teri 221ml,Sambal Matah,48591,337,7/15/2025,6/13/2026,3.6,CV Sitorus Tbk,Meulaboh
+747,Sambel Sambal Bawang 407ml,Sambal Terasi,26037,451,7/15/2025,3/4/2026,4,UD Mustofa Waluyo,Padang
+748,Sambal Sambal Terasi 194ml,Sambal Ijo,13608,334,7/15/2025,4/9/2026,2.6,PT Narpati,Kotamobagu
+749,Sambal Sambal Tomat 269ml,Sambal Bawang,13213,55,7/15/2025,5/14/2026,5,PT Wulandari Utami,Mojokerto
+750,Sambal Sambal Tomat 412ml,Sambal Ijo,73326,233,7/15/2025,4/15/2026,4.8,PT Firgantoro (Persero) Tbk,Kupang
+751,Sambal Sambal Tomat 265ml,Sambal Cumi,68820,194,7/15/2025,11/16/2025,4.4,PT Suryatmi (Persero) Tbk,Purwokerto
+752,Sambal Sambal Tomat 341ml,Sambal Ijo,17996,355,7/15/2025,3/2/2026,3.3,Perum Mardhiyah,Surakarta
+753,Sambel Sambal Matah 456ml,Sambal Matah,50111,29,7/15/2025,12/7/2025,3.9,CV Natsir,Serang
+754,Sambal Sambal Teri 470ml,Sambal Tomat,37987,311,7/15/2025,3/24/2026,3.1,PD Maheswara Susanti (Persero) Tbk,Jambi
+755,Sambel Sambal Ijo 414ml,Sambal Teri,44059,373,7/15/2025,6/24/2026,3.7,PD Hutagalung Astuti (Persero) Tbk,Balikpapan
+756,Sambal Sambal Matah 462ml,Sambal Tomat,74176,99,7/15/2025,10/13/2025,2.8,Perum Permadi Tbk,Kotamobagu
+757,Sambel Sambal Bawang 477ml,Sambal Matah,62400,315,7/15/2025,5/13/2026,3.5,UD Mahendra Wijayanti,Balikpapan
+758,Sambel Sambal Cumi 386ml,Sambal Matah,10740,327,7/15/2025,1/24/2026,4.2,UD Salahudin Permadi (Persero) Tbk,Dumai
+759,Sambel Sambal Bawang 257ml,Sambal Tomat,43206,281,7/15/2025,3/27/2026,4.4,Perum Lazuardi Iswahyudi (Persero) Tbk,Padangpanjang
+760,Sambal Sambal Cumi 274ml,Sambal Roa,57474,291,7/15/2025,10/27/2025,4.6,CV Pangestu (Persero) Tbk,Pekanbaru
+761,Sambal Sambal Cumi 273ml,Sambal Teri,70041,242,7/15/2025,10/31/2025,4.1,PT Gunawan,Ambon
+762,Sambel Sambal Ijo 421ml,Sambal Teri,68461,442,7/15/2025,7/14/2026,4.7,UD Narpati Mahendra Tbk,Padangpanjang
+763,Sambel Sambal Roa 480ml,Sambal Terasi,64729,266,7/15/2025,3/15/2026,3.9,PD Zulkarnain Saptono Tbk,Pekalongan
+764,Sambel Sambal Terasi 206ml,Sambal Cumi,62398,469,7/15/2025,4/12/2026,2.7,Perum Namaga,Sorong
+765,Sambal Sambal Tomat 115ml,Sambal Cumi,74462,192,7/15/2025,7/13/2026,4.6,PD Siregar,Tebingtinggi
+766,Sambel Sambal Ijo 404ml,Sambal Bawang,66662,400,7/15/2025,3/19/2026,4.3,PT Sitompul Wijaya Tbk,Tual
+767,Sambel Sambal Terasi 239ml,Sambal Roa,15688,254,7/15/2025,2/11/2026,3.4,Perum Riyanti Tbk,Kota Administrasi Jakarta Barat
+768,Sambel Sambal Matah 368ml,Sambal Tomat,21469,57,7/15/2025,4/22/2026,4.5,UD Napitupulu Laksita,Samarinda
+769,Sambal Sambal Bawang 327ml,Sambal Terasi,62364,247,7/15/2025,6/26/2026,2.9,PD Mustofa Nainggolan,Bitung
+770,Sambel Sambal Teri 475ml,Sambal Tomat,60825,167,7/15/2025,12/25/2025,4.4,PT Simanjuntak Hartati,Batam
+771,Sambal Sambal Ijo 205ml,Sambal Terasi,40105,198,7/15/2025,7/7/2026,2.8,CV Kusumo Tbk,Sabang
+772,Sambel Sambal Terasi 451ml,Sambal Bawang,31842,239,7/15/2025,11/5/2025,2.8,UD Sitorus Anggraini (Persero) Tbk,Payakumbuh
+773,Sambel Sambal Terasi 395ml,Sambal Tomat,51867,456,7/15/2025,1/28/2026,3.3,CV Astuti,Bukittinggi
+774,Sambal Sambal Tomat 241ml,Sambal Cumi,60645,225,7/15/2025,12/12/2025,3.2,PD Dabukke (Persero) Tbk,Prabumulih
+775,Sambal Sambal Tomat 158ml,Sambal Terasi,72803,318,7/15/2025,7/3/2026,2.8,UD Laksmiwati Lestari Tbk,Palu
+776,Sambel Sambal Cumi 238ml,Sambal Ijo,71818,360,7/15/2025,3/7/2026,3.9,UD Sitompul (Persero) Tbk,Meulaboh
+777,Sambal Sambal Bawang 259ml,Sambal Cumi,45427,227,7/15/2025,11/7/2025,2.8,UD Yuliarti Tbk,Malang
+778,Sambel Sambal Terasi 154ml,Sambal Roa,13525,44,7/15/2025,5/19/2026,3.5,PD Hardiansyah Siregar,Surakarta
+779,Sambel Sambal Cumi 259ml,Sambal Cumi,63571,101,7/15/2025,7/13/2026,2.7,Perum Fujiati,Bukittinggi
+780,Sambel Sambal Ijo 147ml,Sambal Teri,16374,233,7/15/2025,3/20/2026,4.2,CV Dabukke,Gorontalo
+781,Sambel Sambal Teri 218ml,Sambal Matah,19418,440,7/15/2025,2/22/2026,4.8,PD Prayoga Melani (Persero) Tbk,Batam
+782,Sambel Sambal Ijo 458ml,Sambal Cumi,61693,440,7/15/2025,3/28/2026,3.6,Perum Saptono,Bitung
+783,Sambal Sambal Bawang 343ml,Sambal Bawang,33032,245,7/15/2025,6/6/2026,4.6,PT Winarsih Utami,Langsa
+784,Sambel Sambal Cumi 409ml,Sambal Ijo,43288,52,7/15/2025,5/8/2026,4.5,PT Najmudin (Persero) Tbk,Bau-Bau
+785,Sambal Sambal Cumi 384ml,Sambal Bawang,61932,154,7/15/2025,7/12/2026,3.7,CV Winarno Yulianti,Sukabumi
+786,Sambel Sambal Matah 417ml,Sambal Matah,45910,81,7/15/2025,6/16/2026,3.5,PT Utami,Tanjungpinang
+787,Sambel Sambal Matah 455ml,Sambal Roa,61400,222,7/15/2025,4/6/2026,3.9,Perum Astuti (Persero) Tbk,Lhokseumawe
+788,Sambal Sambal Ijo 439ml,Sambal Bawang,58455,476,7/15/2025,6/19/2026,2.8,PT Damanik Tbk,Cimahi
+789,Sambel Sambal Cumi 384ml,Sambal Bawang,63872,227,7/15/2025,1/11/2026,3.3,CV Namaga Tbk,Tanjungbalai
+790,Sambel Sambal Bawang 406ml,Sambal Bawang,54925,416,7/15/2025,4/25/2026,3.3,UD Handayani Suwarno Tbk,Cirebon
+791,Sambal Sambal Bawang 211ml,Sambal Ijo,68147,297,7/15/2025,10/13/2025,4.4,PD Mangunsong (Persero) Tbk,Medan
+792,Sambal Sambal Teri 372ml,Sambal Tomat,35557,315,7/15/2025,5/29/2026,3,PD Marpaung,Singkawang
+793,Sambel Sambal Tomat 391ml,Sambal Tomat,70194,482,7/15/2025,5/23/2026,4.3,CV Mandasari Tbk,Palembang
+794,Sambel Sambal Bawang 398ml,Sambal Terasi,50074,261,7/15/2025,5/7/2026,4.6,CV Uyainah Waskita,Padang
+795,Sambel Sambal Terasi 289ml,Sambal Terasi,10055,360,7/15/2025,4/14/2026,2.8,UD Yolanda Wahyudin (Persero) Tbk,Dumai
+796,Sambel Sambal Terasi 220ml,Sambal Roa,56020,302,7/15/2025,5/2/2026,4.1,Perum Lestari Widodo,Batam
+797,Sambel Sambal Roa 295ml,Sambal Roa,45724,108,7/15/2025,1/9/2026,3.7,Perum Permata Tbk,Binjai
+798,Sambal Sambal Roa 284ml,Sambal Roa,20110,147,7/15/2025,12/16/2025,2.8,PT Hakim Kusmawati (Persero) Tbk,Bitung
+799,Sambal Sambal Terasi 173ml,Sambal Teri,53117,223,7/15/2025,12/21/2025,2.7,PT Purwanti Sitompul,Tegal
+800,Sambel Sambal Teri 456ml,Sambal Roa,50845,92,7/15/2025,6/2/2026,3.8,CV Hassanah,Subulussalam
+801,Sambel Sambal Roa 281ml,Sambal Matah,22176,217,7/15/2025,10/16/2025,3.9,UD Siregar,Sorong
+802,Sambal Sambal Tomat 310ml,Sambal Cumi,12192,500,7/15/2025,11/1/2025,3.9,Perum Waluyo Wastuti Tbk,Surabaya
+803,Sambel Sambal Bawang 397ml,Sambal Teri,73028,353,7/15/2025,11/22/2025,2.9,PT Iswahyudi Waluyo,Pekanbaru
+804,Sambel Sambal Teri 364ml,Sambal Bawang,44298,455,7/15/2025,11/27/2025,3.1,PT Haryanti,Bukittinggi
+805,Sambal Sambal Tomat 413ml,Sambal Terasi,69217,175,7/15/2025,7/13/2026,4.4,CV Simbolon Megantara (Persero) Tbk,Batu
+806,Sambel Sambal Teri 362ml,Sambal Teri,47615,375,7/15/2025,3/31/2026,3.6,CV Hutapea Tbk,Palembang
+807,Sambel Sambal Tomat 185ml,Sambal Terasi,55550,472,7/15/2025,3/17/2026,4.3,PT Habibi,Tomohon
+808,Sambel Sambal Terasi 422ml,Sambal Teri,47889,86,7/15/2025,11/8/2025,4.1,CV Namaga (Persero) Tbk,Makassar
+809,Sambel Sambal Terasi 246ml,Sambal Teri,15407,64,7/15/2025,6/28/2026,2.7,Perum Haryanto,Kota Administrasi Jakarta Pusat
+810,Sambel Sambal Tomat 167ml,Sambal Tomat,28036,439,7/15/2025,2/21/2026,2.5,CV Mangunsong Hartati,Yogyakarta
+811,Sambal Sambal Ijo 402ml,Sambal Ijo,53198,228,7/15/2025,4/20/2026,4.5,Perum Salahudin Iswahyudi,Palembang
+812,Sambel Sambal Matah 348ml,Sambal Ijo,62387,270,7/15/2025,10/29/2025,3.4,PT Nugroho Wastuti,Ternate
+813,Sambal Sambal Ijo 404ml,Sambal Ijo,64893,253,7/15/2025,5/12/2026,4.4,CV Habibi Setiawan (Persero) Tbk,Kota Administrasi Jakarta Selatan
+814,Sambal Sambal Teri 471ml,Sambal Ijo,23818,295,7/15/2025,4/7/2026,2.6,UD Haryanto Narpati,Tanjungpinang
+815,Sambel Sambal Bawang 126ml,Sambal Ijo,40409,204,7/15/2025,6/13/2026,3.3,PT Astuti (Persero) Tbk,Batam
+816,Sambal Sambal Roa 449ml,Sambal Roa,41102,134,7/15/2025,12/26/2025,3.8,PD Mayasari,Denpasar
+817,Sambel Sambal Terasi 247ml,Sambal Teri,35035,347,7/15/2025,3/23/2026,4.9,CV Wastuti Tbk,Tasikmalaya
+818,Sambal Sambal Bawang 372ml,Sambal Cumi,72664,432,7/15/2025,5/22/2026,4,PT Marpaung (Persero) Tbk,Langsa
+819,Sambel Sambal Cumi 238ml,Sambal Tomat,62580,50,7/15/2025,2/20/2026,4.1,PT Napitupulu (Persero) Tbk,Binjai
+820,Sambel Sambal Teri 495ml,Sambal Matah,58123,344,7/15/2025,1/20/2026,3.8,UD Haryanti Tbk,Tanjungpinang
+821,Sambal Sambal Cumi 380ml,Sambal Terasi,54092,4,7/15/2025,11/16/2025,2.5,PT Wacana Ramadan Tbk,Tanjungpinang
+822,Sambal Sambal Bawang 450ml,Sambal Teri,33036,112,7/15/2025,3/7/2026,3.1,UD Pangestu Budiman,Madiun
+823,Sambal Sambal Terasi 417ml,Sambal Bawang,13727,480,7/15/2025,2/1/2026,4.9,CV Rahimah Hassanah Tbk,Palangkaraya
+824,Sambal Sambal Bawang 144ml,Sambal Ijo,34638,336,7/15/2025,1/15/2026,4.7,PD Handayani,Surakarta
+825,Sambal Sambal Tomat 250ml,Sambal Teri,53285,479,7/15/2025,11/20/2025,4.1,PD Rajasa Laksita,Bengkulu
+826,Sambel Sambal Roa 454ml,Sambal Cumi,26864,82,7/15/2025,11/19/2025,3.2,PD Suryatmi,Jayapura
+827,Sambal Sambal Roa 298ml,Sambal Cumi,13936,132,7/15/2025,2/25/2026,2.9,UD Pratama,Semarang
+828,Sambal Sambal Teri 202ml,Sambal Roa,21694,330,7/15/2025,6/21/2026,2.8,CV Uwais Maryadi,Pangkalpinang
+829,Sambel Sambal Matah 414ml,Sambal Bawang,69808,226,7/15/2025,2/22/2026,2.8,PD Yolanda Lailasari Tbk,Payakumbuh
+830,Sambal Sambal Bawang 392ml,Sambal Tomat,60937,228,7/15/2025,10/22/2025,4.7,UD Sinaga Nasyiah Tbk,Tual
+831,Sambal Sambal Terasi 119ml,Sambal Roa,27461,77,7/15/2025,3/30/2026,4.8,PT Haryanto,Pekanbaru
+832,Sambal Sambal Teri 344ml,Sambal Roa,36470,432,7/15/2025,11/17/2025,3.9,UD Prasetya Anggraini,Bitung
+833,Sambal Sambal Roa 452ml,Sambal Teri,17943,290,7/15/2025,7/14/2026,4.8,PD Pradipta,Pematangsiantar
+834,Sambel Sambal Cumi 449ml,Sambal Tomat,36254,28,7/15/2025,11/28/2025,3.4,PT Tamba Sinaga Tbk,Prabumulih
+835,Sambel Sambal Bawang 335ml,Sambal Tomat,52453,103,7/15/2025,1/11/2026,3.9,Perum Habibi,Purwokerto
+836,Sambel Sambal Matah 253ml,Sambal Roa,68750,54,7/15/2025,4/14/2026,3.7,PD Megantara Dabukke,Tanjungpinang
+837,Sambel Sambal Matah 171ml,Sambal Terasi,22654,12,7/15/2025,2/12/2026,3.7,Perum Prasasta Utami Tbk,Bekasi
+838,Sambal Sambal Tomat 355ml,Sambal Teri,73345,8,7/15/2025,10/31/2025,3.3,PD Wulandari Tbk,Padangpanjang
+839,Sambel Sambal Terasi 307ml,Sambal Bawang,23872,413,7/15/2025,7/7/2026,3.6,PT Maheswara (Persero) Tbk,Pasuruan
+840,Sambal Sambal Matah 136ml,Sambal Terasi,58199,72,7/15/2025,6/20/2026,4.1,CV Tarihoran Jailani,Pagaralam
+841,Sambel Sambal Terasi 224ml,Sambal Ijo,10941,88,7/15/2025,11/7/2025,4.8,CV Widiastuti (Persero) Tbk,Tebingtinggi
+842,Sambal Sambal Teri 412ml,Sambal Ijo,64745,302,7/15/2025,11/14/2025,4.5,UD Puspasari Suwarno,Bau-Bau
+843,Sambal Sambal Bawang 354ml,Sambal Matah,14135,411,7/15/2025,1/24/2026,3.6,PD Mandala,Pasuruan
+844,Sambel Sambal Cumi 161ml,Sambal Ijo,31075,428,7/15/2025,1/30/2026,4.4,Perum Namaga,Sukabumi
+845,Sambal Sambal Cumi 132ml,Sambal Bawang,27949,72,7/15/2025,5/13/2026,2.9,PD Adriansyah Purnawati Tbk,Banjar
+846,Sambel Sambal Ijo 324ml,Sambal Matah,70665,297,7/15/2025,11/2/2025,2.8,CV Maryadi (Persero) Tbk,Batam
+847,Sambel Sambal Ijo 108ml,Sambal Teri,15290,3,7/15/2025,10/16/2025,2.9,Perum Wahyudin (Persero) Tbk,Tegal
+848,Sambal Sambal Tomat 313ml,Sambal Teri,55374,64,7/15/2025,1/26/2026,2.9,PD Hariyah Nasyidah,Sorong
+849,Sambel Sambal Teri 310ml,Sambal Matah,71478,89,7/15/2025,11/1/2025,4,UD Najmudin Narpati (Persero) Tbk,Sabang
+850,Sambel Sambal Bawang 421ml,Sambal Tomat,32796,214,7/15/2025,10/15/2025,3.9,UD Ramadan Rajasa,Cirebon
+851,Sambal Sambal Bawang 371ml,Sambal Bawang,50561,185,7/15/2025,6/29/2026,3,CV Sinaga Palastri,Batam
+852,Sambal Sambal Tomat 127ml,Sambal Matah,17384,407,7/15/2025,12/28/2025,4.2,PT Yulianti Nababan,Yogyakarta
+853,Sambel Sambal Teri 190ml,Sambal Ijo,53918,472,7/15/2025,11/4/2025,2.6,PT Habibi Zulaika,Cilegon
+854,Sambel Sambal Tomat 207ml,Sambal Roa,26474,171,7/15/2025,6/2/2026,2.6,Perum Uyainah Hidayat (Persero) Tbk,Cilegon
+855,Sambal Sambal Ijo 180ml,Sambal Terasi,41788,263,7/15/2025,12/11/2025,2.7,CV Lailasari Puspita (Persero) Tbk,Cimahi
+856,Sambal Sambal Teri 403ml,Sambal Cumi,37463,101,7/15/2025,3/28/2026,3.1,CV Purnawati,Langsa
+857,Sambal Sambal Cumi 216ml,Sambal Bawang,25539,377,7/15/2025,5/12/2026,4.7,CV Wijayanti Firgantoro,Surabaya
+858,Sambel Sambal Matah 137ml,Sambal Teri,48344,248,7/15/2025,11/9/2025,4.7,PD Wasita Tbk,Blitar
+859,Sambal Sambal Matah 412ml,Sambal Teri,21669,198,7/15/2025,4/22/2026,2.8,PD Usada Purnawati Tbk,Pasuruan
+860,Sambal Sambal Cumi 238ml,Sambal Matah,32012,65,7/15/2025,10/29/2025,4.2,CV Farida Mandala Tbk,Tidore Kepulauan
+861,Sambal Sambal Tomat 169ml,Sambal Bawang,65813,238,7/15/2025,6/4/2026,3.5,CV Saptono Permadi (Persero) Tbk,Binjai
+862,Sambel Sambal Matah 251ml,Sambal Ijo,61743,406,7/15/2025,1/8/2026,3.9,PD Permadi,Banda Aceh
+863,Sambal Sambal Bawang 310ml,Sambal Teri,66505,110,7/15/2025,6/12/2026,4.6,CV Saragih Tarihoran (Persero) Tbk,Tangerang Selatan
+864,Sambel Sambal Terasi 473ml,Sambal Roa,58246,446,7/15/2025,2/16/2026,3.1,PT Susanti Uwais,Magelang
+865,Sambel Sambal Matah 402ml,Sambal Ijo,69883,293,7/15/2025,10/15/2025,3.5,PD Habibi Tarihoran (Persero) Tbk,Palu
+866,Sambal Sambal Terasi 340ml,Sambal Terasi,37898,271,7/15/2025,5/2/2026,3.7,UD Hidayat,Sorong
+867,Sambal Sambal Teri 353ml,Sambal Matah,15445,285,7/15/2025,10/19/2025,4.2,PD Iswahyudi Wibowo Tbk,Padangpanjang
+868,Sambel Sambal Matah 167ml,Sambal Cumi,29384,122,7/15/2025,11/28/2025,2.5,Perum Marbun Palastri,Manado
+869,Sambel Sambal Ijo 460ml,Sambal Teri,66224,292,7/15/2025,10/25/2025,4.9,CV Usamah,Tangerang Selatan
+870,Sambel Sambal Ijo 460ml,Sambal Roa,22120,404,7/15/2025,4/20/2026,4.1,PT Uwais,Subulussalam
+871,Sambal Sambal Bawang 297ml,Sambal Cumi,44794,16,7/15/2025,3/13/2026,3.6,PT Maryadi Manullang Tbk,Tasikmalaya
+872,Sambel Sambal Matah 450ml,Sambal Bawang,50662,450,7/15/2025,4/2/2026,4.3,Perum Budiyanto Suartini (Persero) Tbk,Bogor
+873,Sambal Sambal Cumi 126ml,Sambal Bawang,35097,187,7/15/2025,6/8/2026,4,PT Januar,Tangerang Selatan
+874,Sambel Sambal Cumi 189ml,Sambal Bawang,46749,363,7/15/2025,1/25/2026,2.8,CV Hutasoit Astuti (Persero) Tbk,Ambon
+875,Sambel Sambal Matah 376ml,Sambal Bawang,52535,244,7/15/2025,1/28/2026,4.4,PD Siregar Pudjiastuti Tbk,Banjarmasin
+876,Sambal Sambal Cumi 280ml,Sambal Tomat,43001,348,7/15/2025,5/17/2026,3.2,UD Jailani,Blitar
+877,Sambal Sambal Cumi 276ml,Sambal Teri,41865,256,7/15/2025,7/9/2026,4.6,Perum Simbolon Palastri (Persero) Tbk,Sawahlunto
+878,Sambel Sambal Tomat 331ml,Sambal Cumi,62422,344,7/15/2025,11/15/2025,3,UD Natsir Safitri (Persero) Tbk,Kota Administrasi Jakarta Barat
+879,Sambel Sambal Bawang 141ml,Sambal Roa,68847,91,7/15/2025,3/9/2026,4.9,Perum Yuliarti Laksmiwati Tbk,Tasikmalaya
+880,Sambal Sambal Bawang 184ml,Sambal Tomat,17341,356,7/15/2025,12/27/2025,3.7,PD Nasyidah Hutasoit,Serang
+881,Sambal Sambal Terasi 250ml,Sambal Roa,73542,349,7/15/2025,12/19/2025,3.7,UD Sirait Wibisono,Bogor
+882,Sambel Sambal Teri 477ml,Sambal Terasi,29104,96,7/15/2025,11/14/2025,2.6,UD Rajata Hartati,Bandung
+883,Sambal Sambal Cumi 310ml,Sambal Cumi,52975,330,7/15/2025,3/29/2026,3.7,CV Rahimah,Ambon
+884,Sambel Sambal Teri 255ml,Sambal Ijo,68869,404,7/15/2025,3/18/2026,2.9,Perum Situmorang Agustina,Kota Administrasi Jakarta Utara
+885,Sambel Sambal Matah 347ml,Sambal Cumi,73617,147,7/15/2025,11/6/2025,2.9,PD Suryatmi Tbk,Cirebon
+886,Sambel Sambal Teri 185ml,Sambal Ijo,56649,274,7/15/2025,3/8/2026,3,PT Namaga,Pekalongan
+887,Sambal Sambal Ijo 182ml,Sambal Matah,17662,21,7/15/2025,3/24/2026,3.9,PD Saptono (Persero) Tbk,Dumai
+888,Sambel Sambal Tomat 289ml,Sambal Ijo,23445,287,7/15/2025,10/30/2025,4.2,CV Tampubolon Tbk,Kota Administrasi Jakarta Utara
+889,Sambel Sambal Ijo 290ml,Sambal Teri,45380,499,7/15/2025,1/4/2026,3.8,PT Zulaika (Persero) Tbk,Singkawang
+890,Sambal Sambal Terasi 307ml,Sambal Teri,60365,74,7/15/2025,6/4/2026,4.8,CV Najmudin (Persero) Tbk,Banjarmasin
+891,Sambal Sambal Terasi 478ml,Sambal Cumi,52417,361,7/15/2025,3/13/2026,3.7,PD Prayoga (Persero) Tbk,Padang Sidempuan
+892,Sambel Sambal Ijo 389ml,Sambal Teri,32196,352,7/15/2025,12/9/2025,4.3,CV Sitorus (Persero) Tbk,Lhokseumawe
+893,Sambal Sambal Ijo 447ml,Sambal Bawang,30190,12,7/15/2025,5/6/2026,4,PT Gunarto Mulyani (Persero) Tbk,Bau-Bau
+894,Sambal Sambal Teri 282ml,Sambal Bawang,31388,28,7/15/2025,1/20/2026,4,PD Pertiwi (Persero) Tbk,Sorong
+895,Sambal Sambal Tomat 200ml,Sambal Terasi,15478,275,7/15/2025,5/29/2026,4.2,CV Suwarno Lazuardi,Pariaman
+896,Sambal Sambal Roa 199ml,Sambal Teri,30824,308,7/15/2025,7/1/2026,4.9,PD Riyanti Palastri Tbk,Ambon
+897,Sambel Sambal Roa 175ml,Sambal Roa,34224,197,7/15/2025,4/21/2026,2.5,UD Kusumo Riyanti (Persero) Tbk,Jambi
+898,Sambel Sambal Cumi 257ml,Sambal Teri,67298,287,7/15/2025,11/26/2025,3,CV Dongoran Hutagalung (Persero) Tbk,Tasikmalaya
+899,Sambel Sambal Roa 326ml,Sambal Tomat,20734,412,7/15/2025,5/18/2026,4.3,PD Safitri Namaga (Persero) Tbk,Sibolga
+900,Sambel Sambal Ijo 400ml,Sambal Bawang,19413,106,7/15/2025,3/17/2026,3.7,Perum Yolanda,Blitar
+901,Sambel Sambal Bawang 402ml,Sambal Roa,15796,3,7/15/2025,5/10/2026,4.1,CV Latupono,Bau-Bau
+902,Sambel Sambal Roa 189ml,Sambal Teri,56546,290,7/15/2025,12/22/2025,3,PD Maryati,Tebingtinggi
+903,Sambel Sambal Tomat 383ml,Sambal Teri,12767,421,7/15/2025,3/16/2026,4.6,UD Andriani Widiastuti Tbk,Sungai Penuh
+904,Sambel Sambal Teri 386ml,Sambal Teri,24714,13,7/15/2025,10/14/2025,2.9,Perum Budiyanto Winarno (Persero) Tbk,Bontang
+905,Sambel Sambal Teri 163ml,Sambal Tomat,37338,91,7/15/2025,6/21/2026,4.8,PD Utami,Balikpapan
+906,Sambal Sambal Terasi 161ml,Sambal Tomat,42312,496,7/15/2025,11/16/2025,4,Perum Hutagalung Tbk,Samarinda
+907,Sambel Sambal Teri 389ml,Sambal Roa,66907,132,7/15/2025,6/13/2026,4.9,PD Pratiwi Pudjiastuti (Persero) Tbk,Denpasar
+908,Sambal Sambal Cumi 362ml,Sambal Terasi,65396,132,7/15/2025,1/4/2026,4,Perum Hutasoit,Kupang
+909,Sambal Sambal Cumi 336ml,Sambal Ijo,33421,83,7/15/2025,11/9/2025,3.2,PT Pudjiastuti,Sabang
+910,Sambel Sambal Cumi 124ml,Sambal Tomat,29114,271,7/15/2025,11/21/2025,3.8,PT Uwais Usada (Persero) Tbk,Madiun
+911,Sambal Sambal Bawang 406ml,Sambal Ijo,45632,165,7/15/2025,3/23/2026,4.6,CV Hakim Tbk,Bandung
+912,Sambel Sambal Tomat 450ml,Sambal Cumi,16280,273,7/15/2025,4/11/2026,4.6,CV Purnawati Tbk,Meulaboh
+913,Sambal Sambal Ijo 365ml,Sambal Tomat,34445,398,7/15/2025,6/18/2026,3.5,PT Lestari Mayasari,Manado
+914,Sambal Sambal Bawang 211ml,Sambal Ijo,42989,113,7/15/2025,1/17/2026,4.5,PD Rahayu,Probolinggo
+915,Sambal Sambal Roa 335ml,Sambal Bawang,17639,419,7/15/2025,12/19/2025,4.8,PT Maulana Wahyudin,Jayapura
+916,Sambel Sambal Cumi 259ml,Sambal Cumi,19110,418,7/15/2025,5/27/2026,4.7,UD Mandasari Firgantoro (Persero) Tbk,Semarang
+917,Sambel Sambal Ijo 463ml,Sambal Tomat,11884,381,7/15/2025,12/12/2025,3.1,UD Handayani Mangunsong Tbk,Kota Administrasi Jakarta Timur
+918,Sambal Sambal Matah 257ml,Sambal Ijo,23752,66,7/15/2025,11/22/2025,3.6,CV Sirait,Kediri
+919,Sambal Sambal Bawang 109ml,Sambal Teri,59632,220,7/15/2025,11/3/2025,3,CV Samosir Wahyuni,Pekalongan
+920,Sambal Sambal Terasi 340ml,Sambal Bawang,69541,129,7/15/2025,11/4/2025,2.7,CV Fujiati Riyanti,Kediri
+921,Sambal Sambal Bawang 500ml,Sambal Bawang,70299,308,7/15/2025,1/26/2026,4,Perum Mardhiyah Tbk,Cirebon
+922,Sambal Sambal Ijo 443ml,Sambal Cumi,11917,46,7/15/2025,12/26/2025,4.6,PD Siregar Susanti,Subulussalam
+923,Sambel Sambal Cumi 280ml,Sambal Ijo,66042,256,7/15/2025,2/13/2026,3.8,CV Padmasari Kuswandari,Palu
+924,Sambal Sambal Bawang 396ml,Sambal Terasi,44657,111,7/15/2025,1/19/2026,4.9,CV Sirait Dongoran (Persero) Tbk,Banda Aceh
+925,Sambal Sambal Terasi 471ml,Sambal Bawang,70570,109,7/15/2025,6/28/2026,4.6,PD Nasyidah Najmudin,Binjai
+926,Sambel Sambal Cumi 457ml,Sambal Ijo,38813,344,7/15/2025,12/6/2025,3,UD Wijayanti Utama,Blitar
+927,Sambel Sambal Roa 317ml,Sambal Matah,43701,116,7/15/2025,5/9/2026,2.8,Perum Pertiwi (Persero) Tbk,Sibolga
+928,Sambel Sambal Bawang 338ml,Sambal Bawang,44060,69,7/15/2025,6/23/2026,4.4,CV Mulyani Tbk,Palangkaraya
+929,Sambel Sambal Terasi 142ml,Sambal Cumi,42355,59,7/15/2025,4/28/2026,3.2,PT Ardianto,Kediri
+930,Sambel Sambal Teri 215ml,Sambal Roa,29044,437,7/15/2025,5/20/2026,3,UD Anggraini,Sorong
+931,Sambal Sambal Teri 447ml,Sambal Cumi,21750,6,7/15/2025,6/21/2026,4.2,UD Pudjiastuti,Batam
+932,Sambel Sambal Teri 367ml,Sambal Bawang,17813,73,7/15/2025,5/3/2026,3.5,CV Mandasari Sihombing (Persero) Tbk,Parepare
+933,Sambal Sambal Ijo 133ml,Sambal Cumi,73911,101,7/15/2025,4/4/2026,3,CV Zulaika Zulkarnain,Tanjungbalai
+934,Sambel Sambal Bawang 219ml,Sambal Roa,57526,255,7/15/2025,3/4/2026,4.4,UD Wibowo,Tanjungpinang
+935,Sambel Sambal Roa 282ml,Sambal Teri,53691,308,7/15/2025,5/8/2026,5,PT Salahudin Padmasari (Persero) Tbk,Tomohon
+936,Sambel Sambal Ijo 493ml,Sambal Teri,17080,62,7/15/2025,2/18/2026,3.7,CV Ramadan Tarihoran (Persero) Tbk,Pontianak
+937,Sambal Sambal Ijo 115ml,Sambal Bawang,58352,27,7/15/2025,11/16/2025,3.7,UD Waskita Nugroho (Persero) Tbk,Sabang
+938,Sambal Sambal Ijo 295ml,Sambal Cumi,20009,155,7/15/2025,12/1/2025,4.4,PD Siregar (Persero) Tbk,Cilegon
+939,Sambel Sambal Teri 203ml,Sambal Tomat,53390,254,7/15/2025,6/21/2026,3.8,PT Wulandari Gunawan (Persero) Tbk,Jayapura
+940,Sambel Sambal Terasi 491ml,Sambal Terasi,74927,220,7/15/2025,12/12/2025,3.5,CV Latupono Wahyudin,Jambi
+941,Sambel Sambal Roa 326ml,Sambal Teri,12358,16,7/15/2025,1/11/2026,3.9,CV Padmasari,Probolinggo
+942,Sambel Sambal Ijo 351ml,Sambal Roa,18813,159,7/15/2025,4/30/2026,3.7,CV Damanik (Persero) Tbk,Medan
+943,Sambal Sambal Teri 437ml,Sambal Teri,41189,287,7/15/2025,1/1/2026,3.8,CV Lailasari Pradana,Bau-Bau
+944,Sambel Sambal Tomat 353ml,Sambal Roa,50431,346,7/15/2025,4/11/2026,4.4,UD Rahmawati Nainggolan (Persero) Tbk,Tidore Kepulauan
+945,Sambel Sambal Cumi 131ml,Sambal Terasi,48696,23,7/15/2025,12/17/2025,4.6,CV Dabukke Irawan,Jayapura
+946,Sambel Sambal Terasi 491ml,Sambal Cumi,34941,49,7/15/2025,5/20/2026,3.4,CV Marbun Siregar (Persero) Tbk,Padang Sidempuan
+947,Sambel Sambal Roa 279ml,Sambal Terasi,53335,125,7/15/2025,2/16/2026,3.1,CV Yuliarti Saptono Tbk,Bandung
+948,Sambel Sambal Bawang 452ml,Sambal Bawang,66946,156,7/15/2025,12/10/2025,3.3,PD Yuliarti (Persero) Tbk,Banjarbaru
+949,Sambal Sambal Cumi 119ml,Sambal Teri,53107,442,7/15/2025,5/17/2026,3.9,PD Sinaga Tbk,Padang Sidempuan
+950,Sambel Sambal Tomat 110ml,Sambal Teri,48534,11,7/15/2025,3/24/2026,3.4,UD Astuti,Banjar
+951,Sambel Sambal Cumi 393ml,Sambal Bawang,62974,250,7/15/2025,12/3/2025,4.2,PT Maheswara Setiawan,Payakumbuh
+952,Sambal Sambal Cumi 354ml,Sambal Cumi,20920,314,7/15/2025,3/15/2026,3.4,Perum Tarihoran Maulana Tbk,Mojokerto
+953,Sambel Sambal Matah 354ml,Sambal Bawang,65075,435,7/15/2025,7/14/2026,3,UD Mulyani Narpati,Subulussalam
+954,Sambel Sambal Terasi 252ml,Sambal Roa,62730,115,7/15/2025,11/29/2025,4.3,UD Kuswandari,Kotamobagu
+955,Sambal Sambal Cumi 239ml,Sambal Bawang,47121,410,7/15/2025,7/11/2026,3.7,CV Sihotang Tbk,Medan
+956,Sambal Sambal Cumi 139ml,Sambal Tomat,43072,411,7/15/2025,3/15/2026,3.6,CV Prabowo Samosir,Metro
+957,Sambel Sambal Matah 312ml,Sambal Roa,26466,319,7/15/2025,7/3/2026,3.6,UD Puspasari,Padang Sidempuan
+958,Sambal Sambal Terasi 421ml,Sambal Ijo,47804,255,7/15/2025,1/30/2026,4.2,PT Saragih,Pariaman
+959,Sambel Sambal Tomat 426ml,Sambal Roa,71252,289,7/15/2025,11/12/2025,3.8,Perum Pratiwi Prayoga,Prabumulih
+960,Sambel Sambal Teri 175ml,Sambal Matah,19861,382,7/15/2025,3/15/2026,4.6,UD Latupono Padmasari,Sukabumi
+961,Sambel Sambal Cumi 132ml,Sambal Matah,65441,211,7/15/2025,2/26/2026,4.6,CV Simbolon Handayani (Persero) Tbk,Lhokseumawe
+962,Sambal Sambal Tomat 451ml,Sambal Matah,36598,122,7/15/2025,12/10/2025,2.9,Perum Rajata Hidayanto,Palembang
+963,Sambal Sambal Matah 258ml,Sambal Teri,41810,286,7/15/2025,5/24/2026,3.6,Perum Sudiati Lestari,Mojokerto
+964,Sambal Sambal Matah 181ml,Sambal Tomat,18941,14,7/15/2025,2/22/2026,4.5,CV Saragih,Probolinggo
+965,Sambel Sambal Ijo 429ml,Sambal Terasi,73162,369,7/15/2025,6/18/2026,4.5,UD Purwanti Sitompul,Bau-Bau
+966,Sambal Sambal Bawang 260ml,Sambal Tomat,66830,32,7/15/2025,5/9/2026,4.7,PT Mardhiyah (Persero) Tbk,Madiun
+967,Sambal Sambal Roa 470ml,Sambal Ijo,25469,57,7/15/2025,6/26/2026,4.8,PT Hariyah,Jambi
+968,Sambel Sambal Teri 146ml,Sambal Matah,49309,62,7/15/2025,3/22/2026,3.3,PT Zulkarnain (Persero) Tbk,Tangerang Selatan
+969,Sambel Sambal Matah 316ml,Sambal Matah,19455,54,7/15/2025,1/10/2026,3,PD Sihombing Marpaung Tbk,Kota Administrasi Jakarta Pusat
+970,Sambel Sambal Teri 309ml,Sambal Tomat,66551,301,7/15/2025,11/10/2025,3.7,Perum Napitupulu (Persero) Tbk,Cimahi
+971,Sambel Sambal Bawang 262ml,Sambal Roa,41120,349,7/15/2025,2/16/2026,4.9,Perum Marbun Tbk,Ternate
+972,Sambal Sambal Cumi 343ml,Sambal Cumi,63829,157,7/15/2025,10/23/2025,4.1,CV Handayani,Makassar
+973,Sambal Sambal Terasi 453ml,Sambal Matah,26579,282,7/15/2025,4/27/2026,3.3,PD Suwarno,Kota Administrasi Jakarta Selatan
+974,Sambel Sambal Bawang 373ml,Sambal Matah,66206,226,7/15/2025,4/29/2026,2.5,PD Budiman Palastri Tbk,Surakarta
+975,Sambel Sambal Tomat 254ml,Sambal Bawang,71362,421,7/15/2025,2/10/2026,3.2,CV Wulandari (Persero) Tbk,Dumai
+976,Sambal Sambal Teri 423ml,Sambal Cumi,67636,415,7/15/2025,5/9/2026,4.5,CV Handayani Wahyuni,Meulaboh
+977,Sambel Sambal Bawang 499ml,Sambal Teri,40873,377,7/15/2025,5/12/2026,4.8,Perum Utami Prakasa (Persero) Tbk,Batu
+978,Sambel Sambal Roa 151ml,Sambal Ijo,55775,133,7/15/2025,6/29/2026,2.7,PD Rajasa Novitasari Tbk,Singkawang
+979,Sambel Sambal Cumi 332ml,Sambal Terasi,59936,26,7/15/2025,1/15/2026,4.1,PT Dabukke,Sorong
+980,Sambal Sambal Terasi 305ml,Sambal Matah,51176,156,7/15/2025,3/22/2026,3.9,Perum Simanjuntak (Persero) Tbk,Kediri
+981,Sambal Sambal Ijo 227ml,Sambal Ijo,65506,304,7/15/2025,5/11/2026,4.5,UD Padmasari Maulana,Magelang
+982,Sambel Sambal Teri 344ml,Sambal Ijo,27083,88,7/15/2025,3/29/2026,4.5,CV Permata Kurniawan,Binjai
+983,Sambal Sambal Bawang 312ml,Sambal Cumi,21920,201,7/15/2025,4/24/2026,4.9,PD Putra (Persero) Tbk,Prabumulih
+984,Sambal Sambal Terasi 111ml,Sambal Matah,69430,45,7/15/2025,6/6/2026,3,UD Waskita,Lubuklinggau
+985,Sambal Sambal Terasi 305ml,Sambal Roa,49347,133,7/15/2025,12/28/2025,2.7,Perum Lazuardi Nababan,Bontang
+986,Sambel Sambal Ijo 390ml,Sambal Bawang,10925,367,7/15/2025,7/9/2026,3.6,UD Suryono Sirait (Persero) Tbk,Tual
+987,Sambel Sambal Teri 160ml,Sambal Matah,56764,104,7/15/2025,1/18/2026,4.9,Perum Jailani Salahudin,Tasikmalaya
+988,Sambel Sambal Tomat 482ml,Sambal Teri,35039,66,7/15/2025,5/21/2026,4.6,PD Maryati Dabukke,Parepare
+989,Sambal Sambal Tomat 472ml,Sambal Matah,37415,92,7/15/2025,5/10/2026,4.5,CV Puspasari Tbk,Bontang
+990,Sambal Sambal Tomat 234ml,Sambal Matah,50480,230,7/15/2025,2/17/2026,3.4,PT Siregar,Sorong
+991,Sambel Sambal Bawang 105ml,Sambal Teri,18729,446,7/15/2025,3/27/2026,4.9,CV Budiyanto Zulkarnain (Persero) Tbk,Singkawang
+992,Sambel Sambal Matah 465ml,Sambal Roa,56429,216,7/15/2025,2/21/2026,2.7,PD Pertiwi,Cilegon
+993,Sambal Sambal Terasi 270ml,Sambal Matah,40863,465,7/15/2025,4/12/2026,5,PT Uyainah,Singkawang
+994,Sambal Sambal Terasi 229ml,Sambal Roa,29825,500,7/15/2025,5/3/2026,4.2,UD Suwarno,Probolinggo
+995,Sambal Sambal Terasi 397ml,Sambal Ijo,27058,86,7/15/2025,6/27/2026,3.7,UD Rahimah Nurdiyanti (Persero) Tbk,Pasuruan
+996,Sambel Sambal Teri 167ml,Sambal Bawang,30795,363,7/15/2025,7/11/2026,3.6,PT Putra (Persero) Tbk,Singkawang
+997,Sambel Sambal Bawang 260ml,Sambal Terasi,74128,65,7/15/2025,6/25/2026,4.7,UD Wastuti Kusumo (Persero) Tbk,Dumai
+998,Sambel Sambal Cumi 320ml,Sambal Tomat,69165,448,7/15/2025,2/24/2026,4,CV Megantara,Manado
+999,Sambel Sambal Cumi 323ml,Sambal Ijo,30679,377,7/15/2025,6/21/2026,4.4,PD Mangunsong,Tual
+1000,Sambal Sambal Teri 127ml,Sambal Matah,19740,27,7/15/2025,2/7/2026,3,PD Lestari Tbk,Meulaboh
